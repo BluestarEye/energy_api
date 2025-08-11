@@ -1,0 +1,1712 @@
+2025-08-11 11:02:47,270 [INFO] Loaded ZIP map with 2661 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:02:50,012 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:02:50,213 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:02:50,214 [INFO] Header row detected at index: 9
+2025-08-11 11:02:50,218 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:02:50,218 [INFO] Col[0] = nan
+2025-08-11 11:02:50,219 [INFO] Col[1] = 'Utility'
+2025-08-11 11:02:50,219 [INFO] Col[2] = 'Zone'
+2025-08-11 11:02:50,219 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:02:50,220 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:02:50,220 [INFO] Col[5] = '6m'
+2025-08-11 11:02:50,220 [INFO] Col[6] = '12m'
+2025-08-11 11:02:50,220 [INFO] Col[7] = '18m'
+2025-08-11 11:02:50,221 [INFO] Col[8] = '24m'
+2025-08-11 11:02:50,221 [INFO] Col[9] = '36m'
+2025-08-11 11:02:50,221 [INFO] Col[10] = '48m'
+2025-08-11 11:02:50,222 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:02:50,222 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:02:50,222 [INFO] Col[13] = nan
+2025-08-11 11:02:50,223 [INFO] Col[14] = nan
+2025-08-11 11:02:50,223 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:02:50,224 [INFO] Col[16] = nan
+2025-08-11 11:02:50,224 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:02:50,230 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:02:50,230 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:02:50,231 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:02:50,231 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:02:50,232 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:02:50,232 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:02:50,232 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:02:50,233 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:03:04,387 [INFO] Loaded ZIP map with 2661 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:03:07,388 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:03:07,515 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:03:07,525 [INFO] Header row detected at index: 9
+2025-08-11 11:03:07,554 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:03:07,559 [INFO] Col[0] = nan
+2025-08-11 11:03:07,571 [INFO] Col[1] = 'Utility'
+2025-08-11 11:03:07,572 [INFO] Col[2] = 'Zone'
+2025-08-11 11:03:07,600 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:03:07,602 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:03:07,604 [INFO] Col[5] = '6m'
+2025-08-11 11:03:07,606 [INFO] Col[6] = '12m'
+2025-08-11 11:03:07,606 [INFO] Col[7] = '18m'
+2025-08-11 11:03:07,607 [INFO] Col[8] = '24m'
+2025-08-11 11:03:07,617 [INFO] Col[9] = '36m'
+2025-08-11 11:03:07,623 [INFO] Col[10] = '48m'
+2025-08-11 11:03:07,624 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:03:07,624 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:03:07,624 [INFO] Col[13] = nan
+2025-08-11 11:03:07,625 [INFO] Col[14] = nan
+2025-08-11 11:03:07,625 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:03:07,626 [INFO] Col[16] = nan
+2025-08-11 11:03:07,626 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:03:07,634 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:07,635 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:07,635 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:07,636 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:07,637 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:07,637 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:07,638 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:07,638 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:03:07,911 [INFO] No matches found for X-Con with filters: start_month='August 2025' utility='Centerpoint' zipcode='77001' load_factor='HI' annual_volume=300000.0
+2025-08-11 11:03:07,990 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:03:07,997 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:03:08,004 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:03:08,005 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:03:10,658 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:03:10,783 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:03:10,784 [INFO] Header row detected at index: 9
+2025-08-11 11:03:10,785 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:03:10,785 [INFO] Col[0] = nan
+2025-08-11 11:03:10,786 [INFO] Col[1] = 'Utility'
+2025-08-11 11:03:10,786 [INFO] Col[2] = 'Zone'
+2025-08-11 11:03:10,787 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:03:10,787 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:03:10,788 [INFO] Col[5] = '6m'
+2025-08-11 11:03:10,788 [INFO] Col[6] = '12m'
+2025-08-11 11:03:10,788 [INFO] Col[7] = '18m'
+2025-08-11 11:03:10,789 [INFO] Col[8] = '24m'
+2025-08-11 11:03:10,789 [INFO] Col[9] = '36m'
+2025-08-11 11:03:10,790 [INFO] Col[10] = '48m'
+2025-08-11 11:03:10,790 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:03:10,793 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:03:10,793 [INFO] Col[13] = nan
+2025-08-11 11:03:10,794 [INFO] Col[14] = nan
+2025-08-11 11:03:10,794 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:03:10,794 [INFO] Col[16] = nan
+2025-08-11 11:03:10,794 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:03:10,796 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:10,797 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:10,799 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:10,802 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:10,803 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:10,804 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:10,805 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:03:10,808 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:08:11,292 [INFO] Loaded ZIP map with 2661 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:08:14,695 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:08:14,768 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:08:14,770 [INFO] Header row detected at index: 9
+2025-08-11 11:08:14,772 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:08:14,772 [INFO] Col[0] = nan
+2025-08-11 11:08:14,772 [INFO] Col[1] = 'Utility'
+2025-08-11 11:08:14,773 [INFO] Col[2] = 'Zone'
+2025-08-11 11:08:14,773 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:08:14,773 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:08:14,773 [INFO] Col[5] = '6m'
+2025-08-11 11:08:14,774 [INFO] Col[6] = '12m'
+2025-08-11 11:08:14,774 [INFO] Col[7] = '18m'
+2025-08-11 11:08:14,774 [INFO] Col[8] = '24m'
+2025-08-11 11:08:14,774 [INFO] Col[9] = '36m'
+2025-08-11 11:08:14,774 [INFO] Col[10] = '48m'
+2025-08-11 11:08:14,774 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:08:14,775 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:08:14,775 [INFO] Col[13] = nan
+2025-08-11 11:08:14,775 [INFO] Col[14] = nan
+2025-08-11 11:08:14,775 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:08:14,776 [INFO] Col[16] = nan
+2025-08-11 11:08:14,776 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:08:14,779 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:14,780 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:14,780 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:14,781 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:14,781 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:14,781 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:14,781 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:14,782 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:08:17,423 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:08:17,559 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:08:17,560 [INFO] Header row detected at index: 9
+2025-08-11 11:08:17,561 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:08:17,561 [INFO] Col[0] = nan
+2025-08-11 11:08:17,562 [INFO] Col[1] = 'Utility'
+2025-08-11 11:08:17,562 [INFO] Col[2] = 'Zone'
+2025-08-11 11:08:17,563 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:08:17,563 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:08:17,563 [INFO] Col[5] = '6m'
+2025-08-11 11:08:17,564 [INFO] Col[6] = '12m'
+2025-08-11 11:08:17,564 [INFO] Col[7] = '18m'
+2025-08-11 11:08:17,565 [INFO] Col[8] = '24m'
+2025-08-11 11:08:17,565 [INFO] Col[9] = '36m'
+2025-08-11 11:08:17,565 [INFO] Col[10] = '48m'
+2025-08-11 11:08:17,565 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:08:17,566 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:08:17,566 [INFO] Col[13] = nan
+2025-08-11 11:08:17,567 [INFO] Col[14] = nan
+2025-08-11 11:08:17,567 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:08:17,568 [INFO] Col[16] = nan
+2025-08-11 11:08:17,568 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:08:17,570 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:17,570 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:17,571 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:17,572 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:17,572 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:17,573 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:17,573 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:08:17,579 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:13:55,133 [INFO] Loaded ZIP map with 2661 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:13:57,933 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:13:58,341 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:13:58,342 [INFO] Header row detected at index: 9
+2025-08-11 11:13:58,346 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:13:58,348 [INFO] Col[0] = nan
+2025-08-11 11:13:58,348 [INFO] Col[1] = 'Utility'
+2025-08-11 11:13:58,348 [INFO] Col[2] = 'Zone'
+2025-08-11 11:13:58,349 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:13:58,350 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:13:58,350 [INFO] Col[5] = '6m'
+2025-08-11 11:13:58,351 [INFO] Col[6] = '12m'
+2025-08-11 11:13:58,351 [INFO] Col[7] = '18m'
+2025-08-11 11:13:58,352 [INFO] Col[8] = '24m'
+2025-08-11 11:13:58,352 [INFO] Col[9] = '36m'
+2025-08-11 11:13:58,352 [INFO] Col[10] = '48m'
+2025-08-11 11:13:58,353 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:13:58,353 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:13:58,354 [INFO] Col[13] = nan
+2025-08-11 11:13:58,354 [INFO] Col[14] = nan
+2025-08-11 11:13:58,355 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:13:58,355 [INFO] Col[16] = nan
+2025-08-11 11:13:58,355 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:13:58,362 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:13:58,362 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:13:58,364 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:13:58,365 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:13:58,366 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:13:58,366 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:13:58,367 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:13:58,367 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:14:01,062 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:14:01,164 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:14:01,165 [INFO] Header row detected at index: 9
+2025-08-11 11:14:01,165 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:14:01,166 [INFO] Col[0] = nan
+2025-08-11 11:14:01,166 [INFO] Col[1] = 'Utility'
+2025-08-11 11:14:01,167 [INFO] Col[2] = 'Zone'
+2025-08-11 11:14:01,167 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:14:01,167 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:14:01,167 [INFO] Col[5] = '6m'
+2025-08-11 11:14:01,168 [INFO] Col[6] = '12m'
+2025-08-11 11:14:01,168 [INFO] Col[7] = '18m'
+2025-08-11 11:14:01,169 [INFO] Col[8] = '24m'
+2025-08-11 11:14:01,169 [INFO] Col[9] = '36m'
+2025-08-11 11:14:01,169 [INFO] Col[10] = '48m'
+2025-08-11 11:14:01,170 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:14:01,170 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:14:01,170 [INFO] Col[13] = nan
+2025-08-11 11:14:01,171 [INFO] Col[14] = nan
+2025-08-11 11:14:01,171 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:14:01,172 [INFO] Col[16] = nan
+2025-08-11 11:14:01,172 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:14:01,173 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:14:01,174 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:14:01,174 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:14:01,175 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:14:01,175 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:14:01,175 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:14:01,176 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:14:01,178 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:14:13,813 [INFO] Loaded ZIP map with 1 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:15:14,264 [INFO] Loaded ZIP map with 1 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:15:16,393 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:15:16,522 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:15:16,523 [INFO] Header row detected at index: 9
+2025-08-11 11:15:16,526 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:15:16,526 [INFO] Col[0] = nan
+2025-08-11 11:15:16,527 [INFO] Col[1] = 'Utility'
+2025-08-11 11:15:16,527 [INFO] Col[2] = 'Zone'
+2025-08-11 11:15:16,528 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:15:16,528 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:15:16,528 [INFO] Col[5] = '6m'
+2025-08-11 11:15:16,530 [INFO] Col[6] = '12m'
+2025-08-11 11:15:16,530 [INFO] Col[7] = '18m'
+2025-08-11 11:15:16,531 [INFO] Col[8] = '24m'
+2025-08-11 11:15:16,532 [INFO] Col[9] = '36m'
+2025-08-11 11:15:16,534 [INFO] Col[10] = '48m'
+2025-08-11 11:15:16,535 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:15:16,538 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:15:16,539 [INFO] Col[13] = nan
+2025-08-11 11:15:16,539 [INFO] Col[14] = nan
+2025-08-11 11:15:16,540 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:15:16,540 [INFO] Col[16] = nan
+2025-08-11 11:15:16,541 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:15:16,545 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:16,546 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:16,546 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:16,547 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:16,548 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:16,548 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:16,548 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:16,549 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:15:31,609 [INFO] Loaded ZIP map with 1 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:15:35,485 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:15:35,626 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:15:35,627 [INFO] Header row detected at index: 9
+2025-08-11 11:15:35,631 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:15:35,632 [INFO] Col[0] = nan
+2025-08-11 11:15:35,632 [INFO] Col[1] = 'Utility'
+2025-08-11 11:15:35,632 [INFO] Col[2] = 'Zone'
+2025-08-11 11:15:35,633 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:15:35,633 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:15:35,634 [INFO] Col[5] = '6m'
+2025-08-11 11:15:35,634 [INFO] Col[6] = '12m'
+2025-08-11 11:15:35,634 [INFO] Col[7] = '18m'
+2025-08-11 11:15:35,634 [INFO] Col[8] = '24m'
+2025-08-11 11:15:35,635 [INFO] Col[9] = '36m'
+2025-08-11 11:15:35,635 [INFO] Col[10] = '48m'
+2025-08-11 11:15:35,635 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:15:35,636 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:15:35,636 [INFO] Col[13] = nan
+2025-08-11 11:15:35,637 [INFO] Col[14] = nan
+2025-08-11 11:15:35,637 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:15:35,637 [INFO] Col[16] = nan
+2025-08-11 11:15:35,638 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:15:35,643 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:35,644 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:35,644 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:35,645 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:35,646 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:35,646 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:35,647 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:35,648 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:15:37,118 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:15:37,259 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:15:37,260 [INFO] Header row detected at index: 9
+2025-08-11 11:15:37,261 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:15:37,261 [INFO] Col[0] = nan
+2025-08-11 11:15:37,262 [INFO] Col[1] = 'Utility'
+2025-08-11 11:15:37,263 [INFO] Col[2] = 'Zone'
+2025-08-11 11:15:37,264 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:15:37,264 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:15:37,265 [INFO] Col[5] = '6m'
+2025-08-11 11:15:37,266 [INFO] Col[6] = '12m'
+2025-08-11 11:15:37,266 [INFO] Col[7] = '18m'
+2025-08-11 11:15:37,267 [INFO] Col[8] = '24m'
+2025-08-11 11:15:37,268 [INFO] Col[9] = '36m'
+2025-08-11 11:15:37,269 [INFO] Col[10] = '48m'
+2025-08-11 11:15:37,269 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:15:37,270 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:15:37,270 [INFO] Col[13] = nan
+2025-08-11 11:15:37,271 [INFO] Col[14] = nan
+2025-08-11 11:15:37,272 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:15:37,272 [INFO] Col[16] = nan
+2025-08-11 11:15:37,272 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:15:37,274 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:37,275 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:37,276 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:37,278 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:37,278 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:37,279 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:37,280 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:15:37,282 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:15:44,387 [INFO] Loaded ZIP map with 1 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:15:44,562 [INFO] No matches found for X-Con with filters: start_month='August 2025' utility='Centerpoint' zipcode='75078' load_factor='HI' annual_volume=300000.0
+2025-08-11 11:15:44,611 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:15:44,612 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:15:44,613 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:15:44,614 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:16:18,779 [INFO] Loaded ZIP map with 1 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:16:21,988 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:16:22,275 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:16:22,276 [INFO] Header row detected at index: 9
+2025-08-11 11:16:22,280 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:16:22,281 [INFO] Col[0] = nan
+2025-08-11 11:16:22,282 [INFO] Col[1] = 'Utility'
+2025-08-11 11:16:22,282 [INFO] Col[2] = 'Zone'
+2025-08-11 11:16:22,282 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:16:22,283 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:16:22,284 [INFO] Col[5] = '6m'
+2025-08-11 11:16:22,285 [INFO] Col[6] = '12m'
+2025-08-11 11:16:22,286 [INFO] Col[7] = '18m'
+2025-08-11 11:16:22,286 [INFO] Col[8] = '24m'
+2025-08-11 11:16:22,287 [INFO] Col[9] = '36m'
+2025-08-11 11:16:22,287 [INFO] Col[10] = '48m'
+2025-08-11 11:16:22,287 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:16:22,288 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:16:22,288 [INFO] Col[13] = nan
+2025-08-11 11:16:22,288 [INFO] Col[14] = nan
+2025-08-11 11:16:22,289 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:16:22,289 [INFO] Col[16] = nan
+2025-08-11 11:16:22,289 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:16:22,295 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:22,295 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:22,296 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:22,297 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:22,297 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:22,298 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:22,298 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:22,299 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:16:25,824 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:16:25,913 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:16:25,914 [INFO] Header row detected at index: 9
+2025-08-11 11:16:25,915 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:16:25,916 [INFO] Col[0] = nan
+2025-08-11 11:16:25,916 [INFO] Col[1] = 'Utility'
+2025-08-11 11:16:25,917 [INFO] Col[2] = 'Zone'
+2025-08-11 11:16:25,917 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:16:25,917 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:16:25,918 [INFO] Col[5] = '6m'
+2025-08-11 11:16:25,918 [INFO] Col[6] = '12m'
+2025-08-11 11:16:25,919 [INFO] Col[7] = '18m'
+2025-08-11 11:16:25,919 [INFO] Col[8] = '24m'
+2025-08-11 11:16:25,919 [INFO] Col[9] = '36m'
+2025-08-11 11:16:25,920 [INFO] Col[10] = '48m'
+2025-08-11 11:16:25,920 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:16:25,920 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:16:25,921 [INFO] Col[13] = nan
+2025-08-11 11:16:25,921 [INFO] Col[14] = nan
+2025-08-11 11:16:25,921 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:16:25,922 [INFO] Col[16] = nan
+2025-08-11 11:16:25,922 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:16:25,924 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:25,924 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:25,925 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:25,926 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:25,926 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:25,927 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:25,927 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:16:25,930 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:16:33,917 [INFO] Loaded ZIP map with 1 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:16:34,074 [INFO] No matches found for X-Con with filters: start_month='August 2025' utility='Centerpoint' zipcode='75078' load_factor='HI' annual_volume=300000.0
+2025-08-11 11:16:34,091 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:16:34,093 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:16:34,094 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:16:34,095 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:16:34,096 [INFO] No matches found for Atlantic with filters: start_month='August 2025' utility='Centerpoint' zipcode='75078' load_factor='HI' annual_volume=300000.0
+2025-08-11 11:19:02,205 [INFO] Loaded ZIP map with 1 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:19:05,071 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:19:05,176 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:19:05,177 [INFO] Header row detected at index: 9
+2025-08-11 11:19:05,180 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:19:05,181 [INFO] Col[0] = nan
+2025-08-11 11:19:05,181 [INFO] Col[1] = 'Utility'
+2025-08-11 11:19:05,182 [INFO] Col[2] = 'Zone'
+2025-08-11 11:19:05,182 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:19:05,182 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:19:05,183 [INFO] Col[5] = '6m'
+2025-08-11 11:19:05,183 [INFO] Col[6] = '12m'
+2025-08-11 11:19:05,183 [INFO] Col[7] = '18m'
+2025-08-11 11:19:05,184 [INFO] Col[8] = '24m'
+2025-08-11 11:19:05,184 [INFO] Col[9] = '36m'
+2025-08-11 11:19:05,184 [INFO] Col[10] = '48m'
+2025-08-11 11:19:05,185 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:19:05,185 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:19:05,185 [INFO] Col[13] = nan
+2025-08-11 11:19:05,186 [INFO] Col[14] = nan
+2025-08-11 11:19:05,186 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:19:05,187 [INFO] Col[16] = nan
+2025-08-11 11:19:05,187 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:19:05,193 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:05,194 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:05,194 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:05,195 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:05,195 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:05,196 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:05,196 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:05,197 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:19:07,070 [INFO] Loaded ZIP map with 1 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:19:07,303 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:19:07,307 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:19:07,315 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:19:07,317 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:19:07,704 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:19:07,821 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:19:07,822 [INFO] Header row detected at index: 9
+2025-08-11 11:19:07,823 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:19:07,824 [INFO] Col[0] = nan
+2025-08-11 11:19:07,824 [INFO] Col[1] = 'Utility'
+2025-08-11 11:19:07,825 [INFO] Col[2] = 'Zone'
+2025-08-11 11:19:07,825 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:19:07,825 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:19:07,826 [INFO] Col[5] = '6m'
+2025-08-11 11:19:07,826 [INFO] Col[6] = '12m'
+2025-08-11 11:19:07,826 [INFO] Col[7] = '18m'
+2025-08-11 11:19:07,827 [INFO] Col[8] = '24m'
+2025-08-11 11:19:07,828 [INFO] Col[9] = '36m'
+2025-08-11 11:19:07,828 [INFO] Col[10] = '48m'
+2025-08-11 11:19:07,828 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:19:07,829 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:19:07,829 [INFO] Col[13] = nan
+2025-08-11 11:19:07,829 [INFO] Col[14] = nan
+2025-08-11 11:19:07,830 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:19:07,830 [INFO] Col[16] = nan
+2025-08-11 11:19:07,831 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:19:07,832 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:07,833 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:07,833 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:07,835 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:07,835 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:07,835 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:07,836 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:19:07,838 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:25:10,221 [INFO] Loaded ZIP map with 1 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:25:10,378 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:25:10,379 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:25:10,379 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:25:10,380 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:28:36,717 [INFO] Loaded ZIP map with 1 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:28:39,494 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:28:39,206 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:28:39,207 [INFO] Header row detected at index: 9
+2025-08-11 11:28:39,210 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:28:39,211 [INFO] Col[0] = nan
+2025-08-11 11:28:39,211 [INFO] Col[1] = 'Utility'
+2025-08-11 11:28:39,212 [INFO] Col[2] = 'Zone'
+2025-08-11 11:28:39,212 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:28:39,212 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:28:39,213 [INFO] Col[5] = '6m'
+2025-08-11 11:28:39,213 [INFO] Col[6] = '12m'
+2025-08-11 11:28:39,214 [INFO] Col[7] = '18m'
+2025-08-11 11:28:39,214 [INFO] Col[8] = '24m'
+2025-08-11 11:28:39,215 [INFO] Col[9] = '36m'
+2025-08-11 11:28:39,215 [INFO] Col[10] = '48m'
+2025-08-11 11:28:39,215 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:28:39,215 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:28:39,216 [INFO] Col[13] = nan
+2025-08-11 11:28:39,216 [INFO] Col[14] = nan
+2025-08-11 11:28:39,217 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:28:39,217 [INFO] Col[16] = nan
+2025-08-11 11:28:39,218 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:28:39,223 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:39,224 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:39,224 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:39,225 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:39,225 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:39,226 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:39,226 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:39,227 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 11:28:40,083 [INFO] Loaded ZIP map with 1 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 11:28:40,271 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:28:40,272 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:28:40,273 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:28:40,275 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 11:28:42,750 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 11:28:42,957 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 11:28:42,958 [INFO] Header row detected at index: 9
+2025-08-11 11:28:42,959 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 11:28:42,960 [INFO] Col[0] = nan
+2025-08-11 11:28:42,960 [INFO] Col[1] = 'Utility'
+2025-08-11 11:28:42,960 [INFO] Col[2] = 'Zone'
+2025-08-11 11:28:42,961 [INFO] Col[3] = 'Load Factor'
+2025-08-11 11:28:42,961 [INFO] Col[4] = 'Start Date'
+2025-08-11 11:28:42,961 [INFO] Col[5] = '6m'
+2025-08-11 11:28:42,962 [INFO] Col[6] = '12m'
+2025-08-11 11:28:42,962 [INFO] Col[7] = '18m'
+2025-08-11 11:28:42,962 [INFO] Col[8] = '24m'
+2025-08-11 11:28:42,963 [INFO] Col[9] = '36m'
+2025-08-11 11:28:42,963 [INFO] Col[10] = '48m'
+2025-08-11 11:28:42,964 [INFO] Col[11] = np.float64(nan)
+2025-08-11 11:28:42,964 [INFO] Col[12] = np.float64(nan)
+2025-08-11 11:28:42,964 [INFO] Col[13] = nan
+2025-08-11 11:28:42,965 [INFO] Col[14] = nan
+2025-08-11 11:28:42,965 [INFO] Col[15] = np.float64(nan)
+2025-08-11 11:28:42,965 [INFO] Col[16] = nan
+2025-08-11 11:28:42,966 [INFO] Col[17] = np.float64(nan)
+2025-08-11 11:28:42,967 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:42,968 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:42,968 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:42,970 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:42,970 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:42,970 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:42,971 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 11:28:42,972 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 12:35:09,830 [INFO] Loaded ZIP map with 1 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 12:35:13,184 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 12:35:13,504 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 12:35:13,505 [INFO] Header row detected at index: 9
+2025-08-11 12:35:13,511 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 12:35:13,512 [INFO] Col[0] = nan
+2025-08-11 12:35:13,512 [INFO] Col[1] = 'Utility'
+2025-08-11 12:35:13,513 [INFO] Col[2] = 'Zone'
+2025-08-11 12:35:13,513 [INFO] Col[3] = 'Load Factor'
+2025-08-11 12:35:13,514 [INFO] Col[4] = 'Start Date'
+2025-08-11 12:35:13,515 [INFO] Col[5] = '6m'
+2025-08-11 12:35:13,515 [INFO] Col[6] = '12m'
+2025-08-11 12:35:13,516 [INFO] Col[7] = '18m'
+2025-08-11 12:35:13,516 [INFO] Col[8] = '24m'
+2025-08-11 12:35:13,517 [INFO] Col[9] = '36m'
+2025-08-11 12:35:13,517 [INFO] Col[10] = '48m'
+2025-08-11 12:35:13,518 [INFO] Col[11] = np.float64(nan)
+2025-08-11 12:35:13,519 [INFO] Col[12] = np.float64(nan)
+2025-08-11 12:35:13,519 [INFO] Col[13] = nan
+2025-08-11 12:35:13,519 [INFO] Col[14] = nan
+2025-08-11 12:35:13,520 [INFO] Col[15] = np.float64(nan)
+2025-08-11 12:35:13,520 [INFO] Col[16] = nan
+2025-08-11 12:35:13,520 [INFO] Col[17] = np.float64(nan)
+2025-08-11 12:35:13,526 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:13,526 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:13,527 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:13,528 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:13,529 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:13,529 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:13,530 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:13,531 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 12:35:17,396 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 12:35:17,516 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 12:35:17,517 [INFO] Header row detected at index: 9
+2025-08-11 12:35:17,519 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 12:35:17,520 [INFO] Col[0] = nan
+2025-08-11 12:35:17,521 [INFO] Col[1] = 'Utility'
+2025-08-11 12:35:17,521 [INFO] Col[2] = 'Zone'
+2025-08-11 12:35:17,522 [INFO] Col[3] = 'Load Factor'
+2025-08-11 12:35:17,523 [INFO] Col[4] = 'Start Date'
+2025-08-11 12:35:17,523 [INFO] Col[5] = '6m'
+2025-08-11 12:35:17,524 [INFO] Col[6] = '12m'
+2025-08-11 12:35:17,524 [INFO] Col[7] = '18m'
+2025-08-11 12:35:17,525 [INFO] Col[8] = '24m'
+2025-08-11 12:35:17,526 [INFO] Col[9] = '36m'
+2025-08-11 12:35:17,526 [INFO] Col[10] = '48m'
+2025-08-11 12:35:17,526 [INFO] Col[11] = np.float64(nan)
+2025-08-11 12:35:17,527 [INFO] Col[12] = np.float64(nan)
+2025-08-11 12:35:17,527 [INFO] Col[13] = nan
+2025-08-11 12:35:17,527 [INFO] Col[14] = nan
+2025-08-11 12:35:17,528 [INFO] Col[15] = np.float64(nan)
+2025-08-11 12:35:17,528 [INFO] Col[16] = nan
+2025-08-11 12:35:17,529 [INFO] Col[17] = np.float64(nan)
+2025-08-11 12:35:17,531 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:17,532 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:17,532 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:17,533 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:17,533 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:17,534 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:17,534 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:35:17,536 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 12:38:54,488 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:38:54,489 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:38:54,490 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:38:54,491 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:39:19,858 [INFO] No matches found for X-Con with filters: start_month='August 2025' utility='Centerpoint' zipcode='75078' load_factor='HI' annual_volume=300000.0
+2025-08-11 12:39:19,860 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:39:19,860 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:39:19,861 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:39:19,861 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:39:19,863 [INFO] No matches found for Atlantic with filters: start_month='August 2025' utility='Centerpoint' zipcode='75078' load_factor='HI' annual_volume=300000.0
+2025-08-11 12:42:06,447 [INFO] No matches found for X-Con with filters: start_month='August 2025' utility='Centerpoint' zipcode='75078' load_factor='HI' annual_volume=300000.0
+2025-08-11 12:42:06,450 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:42:06,451 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:42:06,452 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:42:06,452 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:42:06,454 [INFO] No matches found for Atlantic with filters: start_month='August 2025' utility='Centerpoint' zipcode='75078' load_factor='HI' annual_volume=300000.0
+2025-08-11 12:42:18,727 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:42:18,730 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:42:18,731 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:42:18,731 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 12:53:29,398 [INFO] Loaded ZIP map with 1 entries from pricing_data/ZipCodeMap.xlsx
+2025-08-11 12:53:32,230 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 12:53:32,562 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 12:53:32,563 [INFO] Header row detected at index: 9
+2025-08-11 12:53:32,566 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 12:53:32,567 [INFO] Col[0] = nan
+2025-08-11 12:53:32,567 [INFO] Col[1] = 'Utility'
+2025-08-11 12:53:32,568 [INFO] Col[2] = 'Zone'
+2025-08-11 12:53:32,568 [INFO] Col[3] = 'Load Factor'
+2025-08-11 12:53:32,568 [INFO] Col[4] = 'Start Date'
+2025-08-11 12:53:32,569 [INFO] Col[5] = '6m'
+2025-08-11 12:53:32,569 [INFO] Col[6] = '12m'
+2025-08-11 12:53:32,569 [INFO] Col[7] = '18m'
+2025-08-11 12:53:32,569 [INFO] Col[8] = '24m'
+2025-08-11 12:53:32,570 [INFO] Col[9] = '36m'
+2025-08-11 12:53:32,570 [INFO] Col[10] = '48m'
+2025-08-11 12:53:32,570 [INFO] Col[11] = np.float64(nan)
+2025-08-11 12:53:32,570 [INFO] Col[12] = np.float64(nan)
+2025-08-11 12:53:32,571 [INFO] Col[13] = nan
+2025-08-11 12:53:32,571 [INFO] Col[14] = nan
+2025-08-11 12:53:32,571 [INFO] Col[15] = np.float64(nan)
+2025-08-11 12:53:32,571 [INFO] Col[16] = nan
+2025-08-11 12:53:32,571 [INFO] Col[17] = np.float64(nan)
+2025-08-11 12:53:32,576 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:32,577 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:32,577 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:32,578 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:32,578 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:32,579 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:32,579 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:32,580 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 12:53:35,150 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 12:53:35,294 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 12:53:35,295 [INFO] Header row detected at index: 9
+2025-08-11 12:53:35,295 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 12:53:35,296 [INFO] Col[0] = nan
+2025-08-11 12:53:35,297 [INFO] Col[1] = 'Utility'
+2025-08-11 12:53:35,297 [INFO] Col[2] = 'Zone'
+2025-08-11 12:53:35,298 [INFO] Col[3] = 'Load Factor'
+2025-08-11 12:53:35,299 [INFO] Col[4] = 'Start Date'
+2025-08-11 12:53:35,300 [INFO] Col[5] = '6m'
+2025-08-11 12:53:35,300 [INFO] Col[6] = '12m'
+2025-08-11 12:53:35,301 [INFO] Col[7] = '18m'
+2025-08-11 12:53:35,301 [INFO] Col[8] = '24m'
+2025-08-11 12:53:35,302 [INFO] Col[9] = '36m'
+2025-08-11 12:53:35,302 [INFO] Col[10] = '48m'
+2025-08-11 12:53:35,303 [INFO] Col[11] = np.float64(nan)
+2025-08-11 12:53:35,303 [INFO] Col[12] = np.float64(nan)
+2025-08-11 12:53:35,303 [INFO] Col[13] = nan
+2025-08-11 12:53:35,305 [INFO] Col[14] = nan
+2025-08-11 12:53:35,305 [INFO] Col[15] = np.float64(nan)
+2025-08-11 12:53:35,306 [INFO] Col[16] = nan
+2025-08-11 12:53:35,306 [INFO] Col[17] = np.float64(nan)
+2025-08-11 12:53:35,308 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:35,308 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:35,309 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:35,310 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:35,310 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:35,310 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:35,311 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 12:53:35,313 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:05:43,543 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes
+2025-08-11 13:05:45,766 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 13:05:45,866 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 13:05:45,867 [INFO] Header row detected at index: 9
+2025-08-11 13:05:45,870 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 13:05:45,871 [INFO] Col[0] = nan
+2025-08-11 13:05:45,872 [INFO] Col[1] = 'Utility'
+2025-08-11 13:05:45,872 [INFO] Col[2] = 'Zone'
+2025-08-11 13:05:45,873 [INFO] Col[3] = 'Load Factor'
+2025-08-11 13:05:45,873 [INFO] Col[4] = 'Start Date'
+2025-08-11 13:05:45,874 [INFO] Col[5] = '6m'
+2025-08-11 13:05:45,874 [INFO] Col[6] = '12m'
+2025-08-11 13:05:45,875 [INFO] Col[7] = '18m'
+2025-08-11 13:05:45,875 [INFO] Col[8] = '24m'
+2025-08-11 13:05:45,876 [INFO] Col[9] = '36m'
+2025-08-11 13:05:45,876 [INFO] Col[10] = '48m'
+2025-08-11 13:05:45,877 [INFO] Col[11] = np.float64(nan)
+2025-08-11 13:05:45,877 [INFO] Col[12] = np.float64(nan)
+2025-08-11 13:05:45,877 [INFO] Col[13] = nan
+2025-08-11 13:05:45,877 [INFO] Col[14] = nan
+2025-08-11 13:05:45,878 [INFO] Col[15] = np.float64(nan)
+2025-08-11 13:05:45,878 [INFO] Col[16] = nan
+2025-08-11 13:05:45,878 [INFO] Col[17] = np.float64(nan)
+2025-08-11 13:05:45,885 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:45,886 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:45,886 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:45,887 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:45,888 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:45,888 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:45,889 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:45,890 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:05:48,349 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 13:05:48,448 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 13:05:48,449 [INFO] Header row detected at index: 9
+2025-08-11 13:05:48,450 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 13:05:48,451 [INFO] Col[0] = nan
+2025-08-11 13:05:48,451 [INFO] Col[1] = 'Utility'
+2025-08-11 13:05:48,452 [INFO] Col[2] = 'Zone'
+2025-08-11 13:05:48,452 [INFO] Col[3] = 'Load Factor'
+2025-08-11 13:05:48,453 [INFO] Col[4] = 'Start Date'
+2025-08-11 13:05:48,453 [INFO] Col[5] = '6m'
+2025-08-11 13:05:48,454 [INFO] Col[6] = '12m'
+2025-08-11 13:05:48,454 [INFO] Col[7] = '18m'
+2025-08-11 13:05:48,455 [INFO] Col[8] = '24m'
+2025-08-11 13:05:48,456 [INFO] Col[9] = '36m'
+2025-08-11 13:05:48,457 [INFO] Col[10] = '48m'
+2025-08-11 13:05:48,457 [INFO] Col[11] = np.float64(nan)
+2025-08-11 13:05:48,458 [INFO] Col[12] = np.float64(nan)
+2025-08-11 13:05:48,458 [INFO] Col[13] = nan
+2025-08-11 13:05:48,459 [INFO] Col[14] = nan
+2025-08-11 13:05:48,460 [INFO] Col[15] = np.float64(nan)
+2025-08-11 13:05:48,461 [INFO] Col[16] = nan
+2025-08-11 13:05:48,461 [INFO] Col[17] = np.float64(nan)
+2025-08-11 13:05:48,462 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:48,463 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:48,463 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:48,464 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:48,464 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:48,464 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:48,464 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:05:48,466 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:06:30,271 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes
+2025-08-11 13:06:32,830 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 13:06:32,923 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 13:06:32,924 [INFO] Header row detected at index: 9
+2025-08-11 13:06:32,926 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 13:06:32,926 [INFO] Col[0] = nan
+2025-08-11 13:06:32,927 [INFO] Col[1] = 'Utility'
+2025-08-11 13:06:32,927 [INFO] Col[2] = 'Zone'
+2025-08-11 13:06:32,927 [INFO] Col[3] = 'Load Factor'
+2025-08-11 13:06:32,927 [INFO] Col[4] = 'Start Date'
+2025-08-11 13:06:32,928 [INFO] Col[5] = '6m'
+2025-08-11 13:06:32,928 [INFO] Col[6] = '12m'
+2025-08-11 13:06:32,928 [INFO] Col[7] = '18m'
+2025-08-11 13:06:32,928 [INFO] Col[8] = '24m'
+2025-08-11 13:06:32,928 [INFO] Col[9] = '36m'
+2025-08-11 13:06:32,929 [INFO] Col[10] = '48m'
+2025-08-11 13:06:32,929 [INFO] Col[11] = np.float64(nan)
+2025-08-11 13:06:32,929 [INFO] Col[12] = np.float64(nan)
+2025-08-11 13:06:32,929 [INFO] Col[13] = nan
+2025-08-11 13:06:32,930 [INFO] Col[14] = nan
+2025-08-11 13:06:32,930 [INFO] Col[15] = np.float64(nan)
+2025-08-11 13:06:32,930 [INFO] Col[16] = nan
+2025-08-11 13:06:32,930 [INFO] Col[17] = np.float64(nan)
+2025-08-11 13:06:32,934 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:32,934 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:32,935 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:32,936 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:32,936 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:32,936 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:32,937 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:32,938 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:06:36,301 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 13:06:36,396 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 13:06:36,398 [INFO] Header row detected at index: 9
+2025-08-11 13:06:36,399 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 13:06:36,400 [INFO] Col[0] = nan
+2025-08-11 13:06:36,400 [INFO] Col[1] = 'Utility'
+2025-08-11 13:06:36,401 [INFO] Col[2] = 'Zone'
+2025-08-11 13:06:36,401 [INFO] Col[3] = 'Load Factor'
+2025-08-11 13:06:36,402 [INFO] Col[4] = 'Start Date'
+2025-08-11 13:06:36,403 [INFO] Col[5] = '6m'
+2025-08-11 13:06:36,403 [INFO] Col[6] = '12m'
+2025-08-11 13:06:36,405 [INFO] Col[7] = '18m'
+2025-08-11 13:06:36,405 [INFO] Col[8] = '24m'
+2025-08-11 13:06:36,406 [INFO] Col[9] = '36m'
+2025-08-11 13:06:36,406 [INFO] Col[10] = '48m'
+2025-08-11 13:06:36,407 [INFO] Col[11] = np.float64(nan)
+2025-08-11 13:06:36,407 [INFO] Col[12] = np.float64(nan)
+2025-08-11 13:06:36,408 [INFO] Col[13] = nan
+2025-08-11 13:06:36,409 [INFO] Col[14] = nan
+2025-08-11 13:06:36,409 [INFO] Col[15] = np.float64(nan)
+2025-08-11 13:06:36,409 [INFO] Col[16] = nan
+2025-08-11 13:06:36,409 [INFO] Col[17] = np.float64(nan)
+2025-08-11 13:06:36,411 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:36,414 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:36,415 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:36,417 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:36,418 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:36,420 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:36,421 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:06:36,423 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:11:29,017 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes
+2025-08-11 13:11:31,191 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 13:11:31,300 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 13:11:31,302 [INFO] Header row detected at index: 9
+2025-08-11 13:11:31,305 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 13:11:31,305 [INFO] Col[0] = nan
+2025-08-11 13:11:31,306 [INFO] Col[1] = 'Utility'
+2025-08-11 13:11:31,306 [INFO] Col[2] = 'Zone'
+2025-08-11 13:11:31,307 [INFO] Col[3] = 'Load Factor'
+2025-08-11 13:11:31,307 [INFO] Col[4] = 'Start Date'
+2025-08-11 13:11:31,308 [INFO] Col[5] = '6m'
+2025-08-11 13:11:31,308 [INFO] Col[6] = '12m'
+2025-08-11 13:11:31,309 [INFO] Col[7] = '18m'
+2025-08-11 13:11:31,309 [INFO] Col[8] = '24m'
+2025-08-11 13:11:31,310 [INFO] Col[9] = '36m'
+2025-08-11 13:11:31,310 [INFO] Col[10] = '48m'
+2025-08-11 13:11:31,310 [INFO] Col[11] = np.float64(nan)
+2025-08-11 13:11:31,311 [INFO] Col[12] = np.float64(nan)
+2025-08-11 13:11:31,311 [INFO] Col[13] = nan
+2025-08-11 13:11:31,312 [INFO] Col[14] = nan
+2025-08-11 13:11:31,312 [INFO] Col[15] = np.float64(nan)
+2025-08-11 13:11:31,312 [INFO] Col[16] = nan
+2025-08-11 13:11:31,313 [INFO] Col[17] = np.float64(nan)
+2025-08-11 13:11:31,318 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:31,319 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:31,319 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:31,320 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:31,320 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:31,321 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:31,321 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:31,322 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:11:33,473 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 13:11:33,572 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 13:11:33,573 [INFO] Header row detected at index: 9
+2025-08-11 13:11:33,574 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 13:11:33,574 [INFO] Col[0] = nan
+2025-08-11 13:11:33,575 [INFO] Col[1] = 'Utility'
+2025-08-11 13:11:33,576 [INFO] Col[2] = 'Zone'
+2025-08-11 13:11:33,576 [INFO] Col[3] = 'Load Factor'
+2025-08-11 13:11:33,577 [INFO] Col[4] = 'Start Date'
+2025-08-11 13:11:33,577 [INFO] Col[5] = '6m'
+2025-08-11 13:11:33,578 [INFO] Col[6] = '12m'
+2025-08-11 13:11:33,578 [INFO] Col[7] = '18m'
+2025-08-11 13:11:33,578 [INFO] Col[8] = '24m'
+2025-08-11 13:11:33,579 [INFO] Col[9] = '36m'
+2025-08-11 13:11:33,579 [INFO] Col[10] = '48m'
+2025-08-11 13:11:33,579 [INFO] Col[11] = np.float64(nan)
+2025-08-11 13:11:33,580 [INFO] Col[12] = np.float64(nan)
+2025-08-11 13:11:33,580 [INFO] Col[13] = nan
+2025-08-11 13:11:33,580 [INFO] Col[14] = nan
+2025-08-11 13:11:33,581 [INFO] Col[15] = np.float64(nan)
+2025-08-11 13:11:33,581 [INFO] Col[16] = nan
+2025-08-11 13:11:33,582 [INFO] Col[17] = np.float64(nan)
+2025-08-11 13:11:33,583 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:33,584 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:33,584 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:33,585 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:33,585 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:33,586 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:33,587 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:11:33,589 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:13:42,952 [INFO] No matches found for X-Con with filters: start_month='August 2025' utility='Centerpoint' zipcode='75078' load_factor='HI' annual_volume=300000.0
+2025-08-11 13:13:42,962 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 13:13:42,962 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 13:13:42,963 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 13:13:42,963 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 13:13:42,965 [INFO] No matches found for Atlantic with filters: start_month='August 2025' utility='Centerpoint' zipcode='75078' load_factor='HI' annual_volume=300000.0
+2025-08-11 13:31:21,816 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes
+2025-08-11 13:31:24,698 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 13:31:24,787 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 13:31:24,788 [INFO] Header row detected at index: 9
+2025-08-11 13:31:24,792 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 13:31:24,792 [INFO] Col[0] = nan
+2025-08-11 13:31:24,792 [INFO] Col[1] = 'Utility'
+2025-08-11 13:31:24,793 [INFO] Col[2] = 'Zone'
+2025-08-11 13:31:24,793 [INFO] Col[3] = 'Load Factor'
+2025-08-11 13:31:24,793 [INFO] Col[4] = 'Start Date'
+2025-08-11 13:31:24,793 [INFO] Col[5] = '6m'
+2025-08-11 13:31:24,793 [INFO] Col[6] = '12m'
+2025-08-11 13:31:24,794 [INFO] Col[7] = '18m'
+2025-08-11 13:31:24,794 [INFO] Col[8] = '24m'
+2025-08-11 13:31:24,795 [INFO] Col[9] = '36m'
+2025-08-11 13:31:24,795 [INFO] Col[10] = '48m'
+2025-08-11 13:31:24,795 [INFO] Col[11] = np.float64(nan)
+2025-08-11 13:31:24,796 [INFO] Col[12] = np.float64(nan)
+2025-08-11 13:31:24,796 [INFO] Col[13] = nan
+2025-08-11 13:31:24,796 [INFO] Col[14] = nan
+2025-08-11 13:31:24,796 [INFO] Col[15] = np.float64(nan)
+2025-08-11 13:31:24,797 [INFO] Col[16] = nan
+2025-08-11 13:31:24,797 [INFO] Col[17] = np.float64(nan)
+2025-08-11 13:31:24,802 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:24,803 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:24,803 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:24,804 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:24,804 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:24,805 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:24,805 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:24,806 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:31:27,139 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 13:31:27,214 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 13:31:27,215 [INFO] Header row detected at index: 9
+2025-08-11 13:31:27,215 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 13:31:27,216 [INFO] Col[0] = nan
+2025-08-11 13:31:27,216 [INFO] Col[1] = 'Utility'
+2025-08-11 13:31:27,216 [INFO] Col[2] = 'Zone'
+2025-08-11 13:31:27,217 [INFO] Col[3] = 'Load Factor'
+2025-08-11 13:31:27,217 [INFO] Col[4] = 'Start Date'
+2025-08-11 13:31:27,217 [INFO] Col[5] = '6m'
+2025-08-11 13:31:27,218 [INFO] Col[6] = '12m'
+2025-08-11 13:31:27,218 [INFO] Col[7] = '18m'
+2025-08-11 13:31:27,218 [INFO] Col[8] = '24m'
+2025-08-11 13:31:27,219 [INFO] Col[9] = '36m'
+2025-08-11 13:31:27,219 [INFO] Col[10] = '48m'
+2025-08-11 13:31:27,219 [INFO] Col[11] = np.float64(nan)
+2025-08-11 13:31:27,219 [INFO] Col[12] = np.float64(nan)
+2025-08-11 13:31:27,220 [INFO] Col[13] = nan
+2025-08-11 13:31:27,220 [INFO] Col[14] = nan
+2025-08-11 13:31:27,220 [INFO] Col[15] = np.float64(nan)
+2025-08-11 13:31:27,221 [INFO] Col[16] = nan
+2025-08-11 13:31:27,221 [INFO] Col[17] = np.float64(nan)
+2025-08-11 13:31:27,223 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:27,223 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:27,224 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:27,225 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:27,225 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:27,226 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:27,227 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:31:27,229 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:34:29,133 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes
+2025-08-11 13:34:32,223 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 13:34:32,379 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 13:34:32,380 [INFO] Header row detected at index: 9
+2025-08-11 13:34:32,382 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 13:34:32,383 [INFO] Col[0] = nan
+2025-08-11 13:34:32,383 [INFO] Col[1] = 'Utility'
+2025-08-11 13:34:32,384 [INFO] Col[2] = 'Zone'
+2025-08-11 13:34:32,384 [INFO] Col[3] = 'Load Factor'
+2025-08-11 13:34:32,384 [INFO] Col[4] = 'Start Date'
+2025-08-11 13:34:32,384 [INFO] Col[5] = '6m'
+2025-08-11 13:34:32,385 [INFO] Col[6] = '12m'
+2025-08-11 13:34:32,385 [INFO] Col[7] = '18m'
+2025-08-11 13:34:32,385 [INFO] Col[8] = '24m'
+2025-08-11 13:34:32,385 [INFO] Col[9] = '36m'
+2025-08-11 13:34:32,386 [INFO] Col[10] = '48m'
+2025-08-11 13:34:32,386 [INFO] Col[11] = np.float64(nan)
+2025-08-11 13:34:32,386 [INFO] Col[12] = np.float64(nan)
+2025-08-11 13:34:32,387 [INFO] Col[13] = nan
+2025-08-11 13:34:32,387 [INFO] Col[14] = nan
+2025-08-11 13:34:32,387 [INFO] Col[15] = np.float64(nan)
+2025-08-11 13:34:32,387 [INFO] Col[16] = nan
+2025-08-11 13:34:32,387 [INFO] Col[17] = np.float64(nan)
+2025-08-11 13:34:32,431 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:32,431 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:32,433 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:32,433 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:32,436 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:32,439 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:32,439 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:32,442 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:34:35,615 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 13:34:35,741 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 13:34:35,742 [INFO] Header row detected at index: 9
+2025-08-11 13:34:35,744 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 13:34:35,744 [INFO] Col[0] = nan
+2025-08-11 13:34:35,745 [INFO] Col[1] = 'Utility'
+2025-08-11 13:34:35,745 [INFO] Col[2] = 'Zone'
+2025-08-11 13:34:35,747 [INFO] Col[3] = 'Load Factor'
+2025-08-11 13:34:35,747 [INFO] Col[4] = 'Start Date'
+2025-08-11 13:34:35,748 [INFO] Col[5] = '6m'
+2025-08-11 13:34:35,748 [INFO] Col[6] = '12m'
+2025-08-11 13:34:35,749 [INFO] Col[7] = '18m'
+2025-08-11 13:34:35,749 [INFO] Col[8] = '24m'
+2025-08-11 13:34:35,752 [INFO] Col[9] = '36m'
+2025-08-11 13:34:35,752 [INFO] Col[10] = '48m'
+2025-08-11 13:34:35,753 [INFO] Col[11] = np.float64(nan)
+2025-08-11 13:34:35,753 [INFO] Col[12] = np.float64(nan)
+2025-08-11 13:34:35,753 [INFO] Col[13] = nan
+2025-08-11 13:34:35,754 [INFO] Col[14] = nan
+2025-08-11 13:34:35,754 [INFO] Col[15] = np.float64(nan)
+2025-08-11 13:34:35,755 [INFO] Col[16] = nan
+2025-08-11 13:34:35,755 [INFO] Col[17] = np.float64(nan)
+2025-08-11 13:34:35,757 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:35,757 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:35,758 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:35,759 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:35,760 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:35,761 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:35,762 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:34:35,764 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:35:49,996 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes
+2025-08-11 13:35:53,240 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 13:35:53,470 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 13:35:53,471 [INFO] Header row detected at index: 9
+2025-08-11 13:35:53,476 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 13:35:53,477 [INFO] Col[0] = nan
+2025-08-11 13:35:53,477 [INFO] Col[1] = 'Utility'
+2025-08-11 13:35:53,478 [INFO] Col[2] = 'Zone'
+2025-08-11 13:35:53,480 [INFO] Col[3] = 'Load Factor'
+2025-08-11 13:35:53,480 [INFO] Col[4] = 'Start Date'
+2025-08-11 13:35:53,481 [INFO] Col[5] = '6m'
+2025-08-11 13:35:53,481 [INFO] Col[6] = '12m'
+2025-08-11 13:35:53,482 [INFO] Col[7] = '18m'
+2025-08-11 13:35:53,483 [INFO] Col[8] = '24m'
+2025-08-11 13:35:53,483 [INFO] Col[9] = '36m'
+2025-08-11 13:35:53,484 [INFO] Col[10] = '48m'
+2025-08-11 13:35:53,485 [INFO] Col[11] = np.float64(nan)
+2025-08-11 13:35:53,485 [INFO] Col[12] = np.float64(nan)
+2025-08-11 13:35:53,486 [INFO] Col[13] = nan
+2025-08-11 13:35:53,486 [INFO] Col[14] = nan
+2025-08-11 13:35:53,487 [INFO] Col[15] = np.float64(nan)
+2025-08-11 13:35:53,487 [INFO] Col[16] = nan
+2025-08-11 13:35:53,488 [INFO] Col[17] = np.float64(nan)
+2025-08-11 13:35:53,496 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:35:53,496 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:35:53,497 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:35:53,498 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:35:53,499 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:35:53,499 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:35:53,499 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:35:53,501 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:36:14,681 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes
+2025-08-11 13:36:17,035 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 13:36:17,148 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 13:36:17,149 [INFO] Header row detected at index: 9
+2025-08-11 13:36:17,152 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 13:36:17,153 [INFO] Col[0] = nan
+2025-08-11 13:36:17,154 [INFO] Col[1] = 'Utility'
+2025-08-11 13:36:17,154 [INFO] Col[2] = 'Zone'
+2025-08-11 13:36:17,154 [INFO] Col[3] = 'Load Factor'
+2025-08-11 13:36:17,155 [INFO] Col[4] = 'Start Date'
+2025-08-11 13:36:17,155 [INFO] Col[5] = '6m'
+2025-08-11 13:36:17,155 [INFO] Col[6] = '12m'
+2025-08-11 13:36:17,156 [INFO] Col[7] = '18m'
+2025-08-11 13:36:17,156 [INFO] Col[8] = '24m'
+2025-08-11 13:36:17,156 [INFO] Col[9] = '36m'
+2025-08-11 13:36:17,157 [INFO] Col[10] = '48m'
+2025-08-11 13:36:17,157 [INFO] Col[11] = np.float64(nan)
+2025-08-11 13:36:17,158 [INFO] Col[12] = np.float64(nan)
+2025-08-11 13:36:17,158 [INFO] Col[13] = nan
+2025-08-11 13:36:17,159 [INFO] Col[14] = nan
+2025-08-11 13:36:17,159 [INFO] Col[15] = np.float64(nan)
+2025-08-11 13:36:17,160 [INFO] Col[16] = nan
+2025-08-11 13:36:17,160 [INFO] Col[17] = np.float64(nan)
+2025-08-11 13:36:17,166 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:17,167 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:17,167 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:17,168 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:17,169 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:17,169 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:17,170 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:17,171 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:36:20,256 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 13:36:20,375 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 13:36:20,376 [INFO] Header row detected at index: 9
+2025-08-11 13:36:20,377 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 13:36:20,378 [INFO] Col[0] = nan
+2025-08-11 13:36:20,378 [INFO] Col[1] = 'Utility'
+2025-08-11 13:36:20,378 [INFO] Col[2] = 'Zone'
+2025-08-11 13:36:20,379 [INFO] Col[3] = 'Load Factor'
+2025-08-11 13:36:20,379 [INFO] Col[4] = 'Start Date'
+2025-08-11 13:36:20,379 [INFO] Col[5] = '6m'
+2025-08-11 13:36:20,380 [INFO] Col[6] = '12m'
+2025-08-11 13:36:20,380 [INFO] Col[7] = '18m'
+2025-08-11 13:36:20,380 [INFO] Col[8] = '24m'
+2025-08-11 13:36:20,380 [INFO] Col[9] = '36m'
+2025-08-11 13:36:20,381 [INFO] Col[10] = '48m'
+2025-08-11 13:36:20,381 [INFO] Col[11] = np.float64(nan)
+2025-08-11 13:36:20,381 [INFO] Col[12] = np.float64(nan)
+2025-08-11 13:36:20,381 [INFO] Col[13] = nan
+2025-08-11 13:36:20,382 [INFO] Col[14] = nan
+2025-08-11 13:36:20,382 [INFO] Col[15] = np.float64(nan)
+2025-08-11 13:36:20,382 [INFO] Col[16] = nan
+2025-08-11 13:36:20,382 [INFO] Col[17] = np.float64(nan)
+2025-08-11 13:36:20,384 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:20,385 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:20,385 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:20,386 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:20,387 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:20,387 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:20,387 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 13:36:20,389 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 13:47:18,713 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes
+2025-08-11 14:00:07,983 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes (skipped: no_zip=0, no_zone=0, malformed=0)
+2025-08-11 14:00:10,841 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 14:00:10,940 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 14:00:10,942 [INFO] Header row detected at index: 9
+2025-08-11 14:00:10,945 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 14:00:10,946 [INFO] Col[0] = nan
+2025-08-11 14:00:10,947 [INFO] Col[1] = 'Utility'
+2025-08-11 14:00:10,947 [INFO] Col[2] = 'Zone'
+2025-08-11 14:00:10,948 [INFO] Col[3] = 'Load Factor'
+2025-08-11 14:00:10,948 [INFO] Col[4] = 'Start Date'
+2025-08-11 14:00:10,949 [INFO] Col[5] = '6m'
+2025-08-11 14:00:10,949 [INFO] Col[6] = '12m'
+2025-08-11 14:00:10,949 [INFO] Col[7] = '18m'
+2025-08-11 14:00:10,950 [INFO] Col[8] = '24m'
+2025-08-11 14:00:10,950 [INFO] Col[9] = '36m'
+2025-08-11 14:00:10,950 [INFO] Col[10] = '48m'
+2025-08-11 14:00:10,950 [INFO] Col[11] = np.float64(nan)
+2025-08-11 14:00:10,951 [INFO] Col[12] = np.float64(nan)
+2025-08-11 14:00:10,951 [INFO] Col[13] = nan
+2025-08-11 14:00:10,952 [INFO] Col[14] = nan
+2025-08-11 14:00:10,952 [INFO] Col[15] = np.float64(nan)
+2025-08-11 14:00:10,952 [INFO] Col[16] = nan
+2025-08-11 14:00:10,953 [INFO] Col[17] = np.float64(nan)
+2025-08-11 14:00:10,959 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:10,960 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:10,960 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:10,961 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:10,962 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:10,962 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:10,962 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:10,963 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 14:00:13,160 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 14:00:13,275 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 14:00:13,276 [INFO] Header row detected at index: 9
+2025-08-11 14:00:13,277 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 14:00:13,279 [INFO] Col[0] = nan
+2025-08-11 14:00:13,280 [INFO] Col[1] = 'Utility'
+2025-08-11 14:00:13,280 [INFO] Col[2] = 'Zone'
+2025-08-11 14:00:13,280 [INFO] Col[3] = 'Load Factor'
+2025-08-11 14:00:13,280 [INFO] Col[4] = 'Start Date'
+2025-08-11 14:00:13,281 [INFO] Col[5] = '6m'
+2025-08-11 14:00:13,282 [INFO] Col[6] = '12m'
+2025-08-11 14:00:13,282 [INFO] Col[7] = '18m'
+2025-08-11 14:00:13,282 [INFO] Col[8] = '24m'
+2025-08-11 14:00:13,283 [INFO] Col[9] = '36m'
+2025-08-11 14:00:13,285 [INFO] Col[10] = '48m'
+2025-08-11 14:00:13,285 [INFO] Col[11] = np.float64(nan)
+2025-08-11 14:00:13,285 [INFO] Col[12] = np.float64(nan)
+2025-08-11 14:00:13,286 [INFO] Col[13] = nan
+2025-08-11 14:00:13,286 [INFO] Col[14] = nan
+2025-08-11 14:00:13,287 [INFO] Col[15] = np.float64(nan)
+2025-08-11 14:00:13,287 [INFO] Col[16] = nan
+2025-08-11 14:00:13,287 [INFO] Col[17] = np.float64(nan)
+2025-08-11 14:00:13,289 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:13,290 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:13,290 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:13,291 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:13,291 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:13,292 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:13,292 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:13,294 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 14:00:36,322 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes (skipped: no_zip=0, no_zone=0, malformed=0)
+2025-08-11 14:00:38,305 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 14:00:38,385 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 14:00:38,386 [INFO] Header row detected at index: 9
+2025-08-11 14:00:38,388 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 14:00:38,389 [INFO] Col[0] = nan
+2025-08-11 14:00:38,389 [INFO] Col[1] = 'Utility'
+2025-08-11 14:00:38,390 [INFO] Col[2] = 'Zone'
+2025-08-11 14:00:38,390 [INFO] Col[3] = 'Load Factor'
+2025-08-11 14:00:38,390 [INFO] Col[4] = 'Start Date'
+2025-08-11 14:00:38,391 [INFO] Col[5] = '6m'
+2025-08-11 14:00:38,391 [INFO] Col[6] = '12m'
+2025-08-11 14:00:38,391 [INFO] Col[7] = '18m'
+2025-08-11 14:00:38,391 [INFO] Col[8] = '24m'
+2025-08-11 14:00:38,394 [INFO] Col[9] = '36m'
+2025-08-11 14:00:38,394 [INFO] Col[10] = '48m'
+2025-08-11 14:00:38,394 [INFO] Col[11] = np.float64(nan)
+2025-08-11 14:00:38,395 [INFO] Col[12] = np.float64(nan)
+2025-08-11 14:00:38,397 [INFO] Col[13] = nan
+2025-08-11 14:00:38,397 [INFO] Col[14] = nan
+2025-08-11 14:00:38,397 [INFO] Col[15] = np.float64(nan)
+2025-08-11 14:00:38,398 [INFO] Col[16] = nan
+2025-08-11 14:00:38,398 [INFO] Col[17] = np.float64(nan)
+2025-08-11 14:00:38,403 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:38,403 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:38,404 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:38,404 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:38,405 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:38,405 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:38,405 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:38,406 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 14:00:40,360 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 14:00:40,450 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 14:00:40,451 [INFO] Header row detected at index: 9
+2025-08-11 14:00:40,452 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 14:00:40,452 [INFO] Col[0] = nan
+2025-08-11 14:00:40,453 [INFO] Col[1] = 'Utility'
+2025-08-11 14:00:40,453 [INFO] Col[2] = 'Zone'
+2025-08-11 14:00:40,454 [INFO] Col[3] = 'Load Factor'
+2025-08-11 14:00:40,454 [INFO] Col[4] = 'Start Date'
+2025-08-11 14:00:40,454 [INFO] Col[5] = '6m'
+2025-08-11 14:00:40,455 [INFO] Col[6] = '12m'
+2025-08-11 14:00:40,455 [INFO] Col[7] = '18m'
+2025-08-11 14:00:40,455 [INFO] Col[8] = '24m'
+2025-08-11 14:00:40,456 [INFO] Col[9] = '36m'
+2025-08-11 14:00:40,456 [INFO] Col[10] = '48m'
+2025-08-11 14:00:40,456 [INFO] Col[11] = np.float64(nan)
+2025-08-11 14:00:40,457 [INFO] Col[12] = np.float64(nan)
+2025-08-11 14:00:40,457 [INFO] Col[13] = nan
+2025-08-11 14:00:40,458 [INFO] Col[14] = nan
+2025-08-11 14:00:40,458 [INFO] Col[15] = np.float64(nan)
+2025-08-11 14:00:40,458 [INFO] Col[16] = nan
+2025-08-11 14:00:40,459 [INFO] Col[17] = np.float64(nan)
+2025-08-11 14:00:40,461 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:40,462 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:40,462 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:40,463 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:40,464 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:40,464 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:40,464 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:00:40,467 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 14:01:23,822 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes (skipped: no_zip=0, no_zone=0, malformed=0)
+2025-08-11 14:07:48,670 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes (skipped: no_zip=0, no_zone=0, malformed=0)
+2025-08-11 14:07:50,821 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 14:07:50,934 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 14:07:50,936 [INFO] Header row detected at index: 9
+2025-08-11 14:07:50,940 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 14:07:50,940 [INFO] Col[0] = nan
+2025-08-11 14:07:50,941 [INFO] Col[1] = 'Utility'
+2025-08-11 14:07:50,941 [INFO] Col[2] = 'Zone'
+2025-08-11 14:07:50,942 [INFO] Col[3] = 'Load Factor'
+2025-08-11 14:07:50,942 [INFO] Col[4] = 'Start Date'
+2025-08-11 14:07:50,942 [INFO] Col[5] = '6m'
+2025-08-11 14:07:50,943 [INFO] Col[6] = '12m'
+2025-08-11 14:07:50,947 [INFO] Col[7] = '18m'
+2025-08-11 14:07:50,949 [INFO] Col[8] = '24m'
+2025-08-11 14:07:50,949 [INFO] Col[9] = '36m'
+2025-08-11 14:07:50,950 [INFO] Col[10] = '48m'
+2025-08-11 14:07:50,950 [INFO] Col[11] = np.float64(nan)
+2025-08-11 14:07:50,951 [INFO] Col[12] = np.float64(nan)
+2025-08-11 14:07:50,951 [INFO] Col[13] = nan
+2025-08-11 14:07:50,952 [INFO] Col[14] = nan
+2025-08-11 14:07:50,952 [INFO] Col[15] = np.float64(nan)
+2025-08-11 14:07:50,952 [INFO] Col[16] = nan
+2025-08-11 14:07:50,953 [INFO] Col[17] = np.float64(nan)
+2025-08-11 14:07:50,958 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:50,959 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:50,959 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:50,960 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:50,961 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:50,961 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:50,961 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:50,962 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 14:07:54,117 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 14:07:54,183 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 14:07:54,184 [INFO] Header row detected at index: 9
+2025-08-11 14:07:54,184 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 14:07:54,185 [INFO] Col[0] = nan
+2025-08-11 14:07:54,186 [INFO] Col[1] = 'Utility'
+2025-08-11 14:07:54,186 [INFO] Col[2] = 'Zone'
+2025-08-11 14:07:54,186 [INFO] Col[3] = 'Load Factor'
+2025-08-11 14:07:54,186 [INFO] Col[4] = 'Start Date'
+2025-08-11 14:07:54,186 [INFO] Col[5] = '6m'
+2025-08-11 14:07:54,187 [INFO] Col[6] = '12m'
+2025-08-11 14:07:54,187 [INFO] Col[7] = '18m'
+2025-08-11 14:07:54,187 [INFO] Col[8] = '24m'
+2025-08-11 14:07:54,187 [INFO] Col[9] = '36m'
+2025-08-11 14:07:54,187 [INFO] Col[10] = '48m'
+2025-08-11 14:07:54,188 [INFO] Col[11] = np.float64(nan)
+2025-08-11 14:07:54,188 [INFO] Col[12] = np.float64(nan)
+2025-08-11 14:07:54,188 [INFO] Col[13] = nan
+2025-08-11 14:07:54,188 [INFO] Col[14] = nan
+2025-08-11 14:07:54,189 [INFO] Col[15] = np.float64(nan)
+2025-08-11 14:07:54,189 [INFO] Col[16] = nan
+2025-08-11 14:07:54,189 [INFO] Col[17] = np.float64(nan)
+2025-08-11 14:07:54,191 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:54,191 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:54,192 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:54,193 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:54,193 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:54,193 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:54,194 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:07:54,196 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 14:10:49,270 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes (skipped: no_zip=0, no_zone=0, malformed=0)
+2025-08-11 14:10:51,566 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 14:10:51,716 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 14:10:51,717 [INFO] Header row detected at index: 9
+2025-08-11 14:10:51,721 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 14:10:51,721 [INFO] Col[0] = nan
+2025-08-11 14:10:51,722 [INFO] Col[1] = 'Utility'
+2025-08-11 14:10:51,722 [INFO] Col[2] = 'Zone'
+2025-08-11 14:10:51,723 [INFO] Col[3] = 'Load Factor'
+2025-08-11 14:10:51,723 [INFO] Col[4] = 'Start Date'
+2025-08-11 14:10:51,724 [INFO] Col[5] = '6m'
+2025-08-11 14:10:51,724 [INFO] Col[6] = '12m'
+2025-08-11 14:10:51,725 [INFO] Col[7] = '18m'
+2025-08-11 14:10:51,725 [INFO] Col[8] = '24m'
+2025-08-11 14:10:51,725 [INFO] Col[9] = '36m'
+2025-08-11 14:10:51,726 [INFO] Col[10] = '48m'
+2025-08-11 14:10:51,726 [INFO] Col[11] = np.float64(nan)
+2025-08-11 14:10:51,727 [INFO] Col[12] = np.float64(nan)
+2025-08-11 14:10:51,727 [INFO] Col[13] = nan
+2025-08-11 14:10:51,728 [INFO] Col[14] = nan
+2025-08-11 14:10:51,728 [INFO] Col[15] = np.float64(nan)
+2025-08-11 14:10:51,729 [INFO] Col[16] = nan
+2025-08-11 14:10:51,729 [INFO] Col[17] = np.float64(nan)
+2025-08-11 14:10:51,737 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:51,738 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:51,738 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:51,739 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:51,740 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:51,740 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:51,741 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:51,742 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 14:10:54,174 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 14:10:54,262 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 14:10:54,263 [INFO] Header row detected at index: 9
+2025-08-11 14:10:54,264 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 14:10:54,264 [INFO] Col[0] = nan
+2025-08-11 14:10:54,264 [INFO] Col[1] = 'Utility'
+2025-08-11 14:10:54,265 [INFO] Col[2] = 'Zone'
+2025-08-11 14:10:54,265 [INFO] Col[3] = 'Load Factor'
+2025-08-11 14:10:54,265 [INFO] Col[4] = 'Start Date'
+2025-08-11 14:10:54,266 [INFO] Col[5] = '6m'
+2025-08-11 14:10:54,266 [INFO] Col[6] = '12m'
+2025-08-11 14:10:54,266 [INFO] Col[7] = '18m'
+2025-08-11 14:10:54,266 [INFO] Col[8] = '24m'
+2025-08-11 14:10:54,267 [INFO] Col[9] = '36m'
+2025-08-11 14:10:54,267 [INFO] Col[10] = '48m'
+2025-08-11 14:10:54,267 [INFO] Col[11] = np.float64(nan)
+2025-08-11 14:10:54,268 [INFO] Col[12] = np.float64(nan)
+2025-08-11 14:10:54,268 [INFO] Col[13] = nan
+2025-08-11 14:10:54,268 [INFO] Col[14] = nan
+2025-08-11 14:10:54,269 [INFO] Col[15] = np.float64(nan)
+2025-08-11 14:10:54,269 [INFO] Col[16] = nan
+2025-08-11 14:10:54,269 [INFO] Col[17] = np.float64(nan)
+2025-08-11 14:10:54,271 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:54,271 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:54,272 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:54,273 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:54,273 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:54,274 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:54,274 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 14:10:54,277 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 14:12:08,309 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes (skipped: no_zip=0, no_zone=0, malformed=0)
+2025-08-11 15:20:52,079 [WARNING] Zip map file not found (set ZIP_MAP_PATH or place ZipCodeMap.xlsx/.csv in pricing_data/)
+2025-08-11 15:21:00,242 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 15:21:00,532 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 15:21:00,533 [INFO] Header row detected at index: 9
+2025-08-11 15:21:00,536 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 15:21:00,537 [INFO] Col[0] = nan
+2025-08-11 15:21:00,538 [INFO] Col[1] = 'Utility'
+2025-08-11 15:21:00,539 [INFO] Col[2] = 'Zone'
+2025-08-11 15:21:00,539 [INFO] Col[3] = 'Load Factor'
+2025-08-11 15:21:00,539 [INFO] Col[4] = 'Start Date'
+2025-08-11 15:21:00,540 [INFO] Col[5] = '6m'
+2025-08-11 15:21:00,540 [INFO] Col[6] = '12m'
+2025-08-11 15:21:00,541 [INFO] Col[7] = '18m'
+2025-08-11 15:21:00,541 [INFO] Col[8] = '24m'
+2025-08-11 15:21:00,541 [INFO] Col[9] = '36m'
+2025-08-11 15:21:00,542 [INFO] Col[10] = '48m'
+2025-08-11 15:21:00,542 [INFO] Col[11] = np.float64(nan)
+2025-08-11 15:21:00,542 [INFO] Col[12] = np.float64(nan)
+2025-08-11 15:21:00,543 [INFO] Col[13] = nan
+2025-08-11 15:21:00,543 [INFO] Col[14] = nan
+2025-08-11 15:21:00,543 [INFO] Col[15] = np.float64(nan)
+2025-08-11 15:21:00,544 [INFO] Col[16] = nan
+2025-08-11 15:21:00,544 [INFO] Col[17] = np.float64(nan)
+2025-08-11 15:21:00,551 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:00,551 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:00,551 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:00,552 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:00,553 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:00,554 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:00,554 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:00,555 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 15:21:00,571 [WARNING] Zip map file not found (set ZIP_MAP_PATH or place ZipCodeMap.xlsx/.csv in pricing_data/)
+2025-08-11 15:21:03,927 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 15:21:04,124 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 15:21:04,125 [INFO] Header row detected at index: 9
+2025-08-11 15:21:04,136 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 15:21:04,137 [INFO] Col[0] = nan
+2025-08-11 15:21:04,138 [INFO] Col[1] = 'Utility'
+2025-08-11 15:21:04,138 [INFO] Col[2] = 'Zone'
+2025-08-11 15:21:04,139 [INFO] Col[3] = 'Load Factor'
+2025-08-11 15:21:04,139 [INFO] Col[4] = 'Start Date'
+2025-08-11 15:21:04,139 [INFO] Col[5] = '6m'
+2025-08-11 15:21:04,140 [INFO] Col[6] = '12m'
+2025-08-11 15:21:04,140 [INFO] Col[7] = '18m'
+2025-08-11 15:21:04,141 [INFO] Col[8] = '24m'
+2025-08-11 15:21:04,142 [INFO] Col[9] = '36m'
+2025-08-11 15:21:04,143 [INFO] Col[10] = '48m'
+2025-08-11 15:21:04,143 [INFO] Col[11] = np.float64(nan)
+2025-08-11 15:21:04,144 [INFO] Col[12] = np.float64(nan)
+2025-08-11 15:21:04,144 [INFO] Col[13] = nan
+2025-08-11 15:21:04,145 [INFO] Col[14] = nan
+2025-08-11 15:21:04,145 [INFO] Col[15] = np.float64(nan)
+2025-08-11 15:21:04,146 [INFO] Col[16] = nan
+2025-08-11 15:21:04,146 [INFO] Col[17] = np.float64(nan)
+2025-08-11 15:21:04,148 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:04,152 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:04,153 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:04,154 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:04,154 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:04,155 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:04,155 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:21:04,158 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 15:22:17,359 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 1 exact, 0 ranges, 0 prefixes (skipped: no_zip=0, no_zone=0, malformed=0)
+2025-08-11 15:22:20,018 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 15:22:20,085 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 15:22:20,087 [INFO] Header row detected at index: 9
+2025-08-11 15:22:20,089 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 15:22:20,089 [INFO] Col[0] = nan
+2025-08-11 15:22:20,089 [INFO] Col[1] = 'Utility'
+2025-08-11 15:22:20,090 [INFO] Col[2] = 'Zone'
+2025-08-11 15:22:20,090 [INFO] Col[3] = 'Load Factor'
+2025-08-11 15:22:20,090 [INFO] Col[4] = 'Start Date'
+2025-08-11 15:22:20,090 [INFO] Col[5] = '6m'
+2025-08-11 15:22:20,090 [INFO] Col[6] = '12m'
+2025-08-11 15:22:20,091 [INFO] Col[7] = '18m'
+2025-08-11 15:22:20,091 [INFO] Col[8] = '24m'
+2025-08-11 15:22:20,091 [INFO] Col[9] = '36m'
+2025-08-11 15:22:20,091 [INFO] Col[10] = '48m'
+2025-08-11 15:22:20,091 [INFO] Col[11] = np.float64(nan)
+2025-08-11 15:22:20,092 [INFO] Col[12] = np.float64(nan)
+2025-08-11 15:22:20,092 [INFO] Col[13] = nan
+2025-08-11 15:22:20,092 [INFO] Col[14] = nan
+2025-08-11 15:22:20,092 [INFO] Col[15] = np.float64(nan)
+2025-08-11 15:22:20,093 [INFO] Col[16] = nan
+2025-08-11 15:22:20,093 [INFO] Col[17] = np.float64(nan)
+2025-08-11 15:22:20,097 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:20,097 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:20,098 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:20,098 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:20,099 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:20,099 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:20,100 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:20,100 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 15:22:23,345 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 15:22:23,449 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 15:22:23,450 [INFO] Header row detected at index: 9
+2025-08-11 15:22:23,451 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 15:22:23,451 [INFO] Col[0] = nan
+2025-08-11 15:22:23,451 [INFO] Col[1] = 'Utility'
+2025-08-11 15:22:23,452 [INFO] Col[2] = 'Zone'
+2025-08-11 15:22:23,452 [INFO] Col[3] = 'Load Factor'
+2025-08-11 15:22:23,452 [INFO] Col[4] = 'Start Date'
+2025-08-11 15:22:23,452 [INFO] Col[5] = '6m'
+2025-08-11 15:22:23,452 [INFO] Col[6] = '12m'
+2025-08-11 15:22:23,453 [INFO] Col[7] = '18m'
+2025-08-11 15:22:23,453 [INFO] Col[8] = '24m'
+2025-08-11 15:22:23,453 [INFO] Col[9] = '36m'
+2025-08-11 15:22:23,453 [INFO] Col[10] = '48m'
+2025-08-11 15:22:23,453 [INFO] Col[11] = np.float64(nan)
+2025-08-11 15:22:23,454 [INFO] Col[12] = np.float64(nan)
+2025-08-11 15:22:23,454 [INFO] Col[13] = nan
+2025-08-11 15:22:23,454 [INFO] Col[14] = nan
+2025-08-11 15:22:23,454 [INFO] Col[15] = np.float64(nan)
+2025-08-11 15:22:23,455 [INFO] Col[16] = nan
+2025-08-11 15:22:23,455 [INFO] Col[17] = np.float64(nan)
+2025-08-11 15:22:23,456 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:23,457 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:23,457 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:23,459 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:23,464 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:23,468 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:23,469 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:22:23,473 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 15:27:39,492 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 2661 exact, 0 ranges, 0 prefixes (skipped: no_zip=0, no_zone=0, malformed=0)
+2025-08-11 15:27:42,515 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 15:27:42,578 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 15:27:42,578 [INFO] Header row detected at index: 9
+2025-08-11 15:27:42,580 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 15:27:42,580 [INFO] Col[0] = nan
+2025-08-11 15:27:42,580 [INFO] Col[1] = 'Utility'
+2025-08-11 15:27:42,581 [INFO] Col[2] = 'Zone'
+2025-08-11 15:27:42,581 [INFO] Col[3] = 'Load Factor'
+2025-08-11 15:27:42,581 [INFO] Col[4] = 'Start Date'
+2025-08-11 15:27:42,581 [INFO] Col[5] = '6m'
+2025-08-11 15:27:42,582 [INFO] Col[6] = '12m'
+2025-08-11 15:27:42,582 [INFO] Col[7] = '18m'
+2025-08-11 15:27:42,582 [INFO] Col[8] = '24m'
+2025-08-11 15:27:42,582 [INFO] Col[9] = '36m'
+2025-08-11 15:27:42,582 [INFO] Col[10] = '48m'
+2025-08-11 15:27:42,583 [INFO] Col[11] = np.float64(nan)
+2025-08-11 15:27:42,583 [INFO] Col[12] = np.float64(nan)
+2025-08-11 15:27:42,583 [INFO] Col[13] = nan
+2025-08-11 15:27:42,583 [INFO] Col[14] = nan
+2025-08-11 15:27:42,583 [INFO] Col[15] = np.float64(nan)
+2025-08-11 15:27:42,584 [INFO] Col[16] = nan
+2025-08-11 15:27:42,584 [INFO] Col[17] = np.float64(nan)
+2025-08-11 15:27:42,588 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:42,588 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:42,588 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:42,589 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:42,589 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:42,589 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:42,589 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:42,590 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 15:27:44,830 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 15:27:45,053 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 15:27:45,063 [INFO] Header row detected at index: 9
+2025-08-11 15:27:45,064 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 15:27:45,066 [INFO] Col[0] = nan
+2025-08-11 15:27:45,070 [INFO] Col[1] = 'Utility'
+2025-08-11 15:27:45,072 [INFO] Col[2] = 'Zone'
+2025-08-11 15:27:45,073 [INFO] Col[3] = 'Load Factor'
+2025-08-11 15:27:45,074 [INFO] Col[4] = 'Start Date'
+2025-08-11 15:27:45,077 [INFO] Col[5] = '6m'
+2025-08-11 15:27:45,080 [INFO] Col[6] = '12m'
+2025-08-11 15:27:45,080 [INFO] Col[7] = '18m'
+2025-08-11 15:27:45,080 [INFO] Col[8] = '24m'
+2025-08-11 15:27:45,084 [INFO] Col[9] = '36m'
+2025-08-11 15:27:45,085 [INFO] Col[10] = '48m'
+2025-08-11 15:27:45,085 [INFO] Col[11] = np.float64(nan)
+2025-08-11 15:27:45,088 [INFO] Col[12] = np.float64(nan)
+2025-08-11 15:27:45,091 [INFO] Col[13] = nan
+2025-08-11 15:27:45,091 [INFO] Col[14] = nan
+2025-08-11 15:27:45,097 [INFO] Col[15] = np.float64(nan)
+2025-08-11 15:27:45,098 [INFO] Col[16] = nan
+2025-08-11 15:27:45,098 [INFO] Col[17] = np.float64(nan)
+2025-08-11 15:27:45,100 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:45,104 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:45,108 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:45,110 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:45,114 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:45,115 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:45,116 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:27:45,119 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 15:28:25,888 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 2661 exact, 0 ranges, 0 prefixes (skipped: no_zip=0, no_zone=0, malformed=0)
+2025-08-11 15:29:18,928 [INFO] No matches found for X-Con with filters: start_month='August 2025' utility='Centerpoint' zipcode='77002' load_factor='HI' annual_volume=300000.0
+2025-08-11 15:29:18,945 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:18,945 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:18,946 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:18,946 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:35,926 [INFO] No matches found for X-Con with filters: start_month='August 2025' utility='Centerpoint' zipcode='75078' load_factor='HI' annual_volume=300000.0
+2025-08-11 15:29:35,929 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:35,929 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:35,930 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:35,931 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:35,932 [INFO] No matches found for Atlantic with filters: start_month='August 2025' utility='Centerpoint' zipcode='75078' load_factor='HI' annual_volume=300000.0
+2025-08-11 15:29:43,520 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:43,521 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:43,521 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:43,521 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:55,688 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:55,689 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:55,690 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:55,691 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:29:55,692 [INFO] No matches found for Atlantic with filters: start_month='August 2026' utility='Oncor' zipcode='75078' load_factor='HI' annual_volume=300000.0
+2025-08-11 15:30:11,972 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:30:11,973 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:30:11,974 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:30:11,974 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:30:11,976 [INFO] No matches found for Atlantic with filters: start_month='August 2026' utility='TNMP' zipcode='75078' load_factor='HI' annual_volume=300000.0
+2025-08-11 15:30:16,651 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:30:16,652 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:30:16,652 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:30:16,653 [WARNING] Failed to normalize Start Month 'Unknown  Month': Unable to parse date
+2025-08-11 15:34:02,079 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 2661 exact, 0 ranges, 0 prefixes (skipped: no_zip=0, no_zone=0, malformed=0)
+2025-08-11 15:34:04,001 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 15:34:04,077 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 15:34:04,078 [INFO] Header row detected at index: 9
+2025-08-11 15:34:04,082 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 15:34:04,083 [INFO] Col[0] = nan
+2025-08-11 15:34:04,083 [INFO] Col[1] = 'Utility'
+2025-08-11 15:34:04,083 [INFO] Col[2] = 'Zone'
+2025-08-11 15:34:04,084 [INFO] Col[3] = 'Load Factor'
+2025-08-11 15:34:04,084 [INFO] Col[4] = 'Start Date'
+2025-08-11 15:34:04,084 [INFO] Col[5] = '6m'
+2025-08-11 15:34:04,084 [INFO] Col[6] = '12m'
+2025-08-11 15:34:04,085 [INFO] Col[7] = '18m'
+2025-08-11 15:34:04,085 [INFO] Col[8] = '24m'
+2025-08-11 15:34:04,085 [INFO] Col[9] = '36m'
+2025-08-11 15:34:04,085 [INFO] Col[10] = '48m'
+2025-08-11 15:34:04,086 [INFO] Col[11] = np.float64(nan)
+2025-08-11 15:34:04,086 [INFO] Col[12] = np.float64(nan)
+2025-08-11 15:34:04,086 [INFO] Col[13] = nan
+2025-08-11 15:34:04,087 [INFO] Col[14] = nan
+2025-08-11 15:34:04,087 [INFO] Col[15] = np.float64(nan)
+2025-08-11 15:34:04,087 [INFO] Col[16] = nan
+2025-08-11 15:34:04,087 [INFO] Col[17] = np.float64(nan)
+2025-08-11 15:34:04,092 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:04,093 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:04,093 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:04,094 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:04,095 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:04,095 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:04,095 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:04,096 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 15:34:06,057 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 15:34:06,154 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 15:34:06,155 [INFO] Header row detected at index: 9
+2025-08-11 15:34:06,156 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 15:34:06,156 [INFO] Col[0] = nan
+2025-08-11 15:34:06,157 [INFO] Col[1] = 'Utility'
+2025-08-11 15:34:06,157 [INFO] Col[2] = 'Zone'
+2025-08-11 15:34:06,158 [INFO] Col[3] = 'Load Factor'
+2025-08-11 15:34:06,158 [INFO] Col[4] = 'Start Date'
+2025-08-11 15:34:06,158 [INFO] Col[5] = '6m'
+2025-08-11 15:34:06,158 [INFO] Col[6] = '12m'
+2025-08-11 15:34:06,159 [INFO] Col[7] = '18m'
+2025-08-11 15:34:06,159 [INFO] Col[8] = '24m'
+2025-08-11 15:34:06,159 [INFO] Col[9] = '36m'
+2025-08-11 15:34:06,160 [INFO] Col[10] = '48m'
+2025-08-11 15:34:06,160 [INFO] Col[11] = np.float64(nan)
+2025-08-11 15:34:06,160 [INFO] Col[12] = np.float64(nan)
+2025-08-11 15:34:06,161 [INFO] Col[13] = nan
+2025-08-11 15:34:06,161 [INFO] Col[14] = nan
+2025-08-11 15:34:06,161 [INFO] Col[15] = np.float64(nan)
+2025-08-11 15:34:06,162 [INFO] Col[16] = nan
+2025-08-11 15:34:06,162 [INFO] Col[17] = np.float64(nan)
+2025-08-11 15:34:06,163 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:06,164 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:06,164 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:06,165 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:06,165 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:06,166 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:06,166 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:06,169 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 15:34:14,829 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 2661 exact, 0 ranges, 0 prefixes (skipped: no_zip=0, no_zone=0, malformed=0)
+2025-08-11 15:34:16,775 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 15:34:16,845 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 15:34:16,846 [INFO] Header row detected at index: 9
+2025-08-11 15:34:16,847 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 15:34:16,848 [INFO] Col[0] = nan
+2025-08-11 15:34:16,848 [INFO] Col[1] = 'Utility'
+2025-08-11 15:34:16,848 [INFO] Col[2] = 'Zone'
+2025-08-11 15:34:16,849 [INFO] Col[3] = 'Load Factor'
+2025-08-11 15:34:16,849 [INFO] Col[4] = 'Start Date'
+2025-08-11 15:34:16,849 [INFO] Col[5] = '6m'
+2025-08-11 15:34:16,849 [INFO] Col[6] = '12m'
+2025-08-11 15:34:16,849 [INFO] Col[7] = '18m'
+2025-08-11 15:34:16,850 [INFO] Col[8] = '24m'
+2025-08-11 15:34:16,850 [INFO] Col[9] = '36m'
+2025-08-11 15:34:16,850 [INFO] Col[10] = '48m'
+2025-08-11 15:34:16,850 [INFO] Col[11] = np.float64(nan)
+2025-08-11 15:34:16,851 [INFO] Col[12] = np.float64(nan)
+2025-08-11 15:34:16,851 [INFO] Col[13] = nan
+2025-08-11 15:34:16,851 [INFO] Col[14] = nan
+2025-08-11 15:34:16,852 [INFO] Col[15] = np.float64(nan)
+2025-08-11 15:34:16,852 [INFO] Col[16] = nan
+2025-08-11 15:34:16,852 [INFO] Col[17] = np.float64(nan)
+2025-08-11 15:34:16,857 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:16,857 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:16,857 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:16,858 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:16,858 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:16,859 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:16,859 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:16,859 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 15:34:18,778 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 15:34:18,867 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 15:34:18,868 [INFO] Header row detected at index: 9
+2025-08-11 15:34:18,869 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 15:34:18,869 [INFO] Col[0] = nan
+2025-08-11 15:34:18,870 [INFO] Col[1] = 'Utility'
+2025-08-11 15:34:18,870 [INFO] Col[2] = 'Zone'
+2025-08-11 15:34:18,870 [INFO] Col[3] = 'Load Factor'
+2025-08-11 15:34:18,870 [INFO] Col[4] = 'Start Date'
+2025-08-11 15:34:18,871 [INFO] Col[5] = '6m'
+2025-08-11 15:34:18,871 [INFO] Col[6] = '12m'
+2025-08-11 15:34:18,871 [INFO] Col[7] = '18m'
+2025-08-11 15:34:18,871 [INFO] Col[8] = '24m'
+2025-08-11 15:34:18,872 [INFO] Col[9] = '36m'
+2025-08-11 15:34:18,872 [INFO] Col[10] = '48m'
+2025-08-11 15:34:18,872 [INFO] Col[11] = np.float64(nan)
+2025-08-11 15:34:18,873 [INFO] Col[12] = np.float64(nan)
+2025-08-11 15:34:18,873 [INFO] Col[13] = nan
+2025-08-11 15:34:18,873 [INFO] Col[14] = nan
+2025-08-11 15:34:18,873 [INFO] Col[15] = np.float64(nan)
+2025-08-11 15:34:18,874 [INFO] Col[16] = nan
+2025-08-11 15:34:18,874 [INFO] Col[17] = np.float64(nan)
+2025-08-11 15:34:18,876 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:18,876 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:18,876 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:18,877 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:18,878 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:18,878 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:18,879 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:34:18,881 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 15:36:04,054 [INFO] ZIP map loaded from pricing_data/ZipCodeMap.xlsx: 2661 exact, 0 ranges, 0 prefixes (skipped: no_zip=0, no_zone=0, malformed=0)
+2025-08-11 15:36:05,959 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 15:36:06,031 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 15:36:06,032 [INFO] Header row detected at index: 9
+2025-08-11 15:36:06,034 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 15:36:06,034 [INFO] Col[0] = nan
+2025-08-11 15:36:06,035 [INFO] Col[1] = 'Utility'
+2025-08-11 15:36:06,035 [INFO] Col[2] = 'Zone'
+2025-08-11 15:36:06,035 [INFO] Col[3] = 'Load Factor'
+2025-08-11 15:36:06,035 [INFO] Col[4] = 'Start Date'
+2025-08-11 15:36:06,036 [INFO] Col[5] = '6m'
+2025-08-11 15:36:06,036 [INFO] Col[6] = '12m'
+2025-08-11 15:36:06,037 [INFO] Col[7] = '18m'
+2025-08-11 15:36:06,037 [INFO] Col[8] = '24m'
+2025-08-11 15:36:06,038 [INFO] Col[9] = '36m'
+2025-08-11 15:36:06,038 [INFO] Col[10] = '48m'
+2025-08-11 15:36:06,038 [INFO] Col[11] = np.float64(nan)
+2025-08-11 15:36:06,039 [INFO] Col[12] = np.float64(nan)
+2025-08-11 15:36:06,039 [INFO] Col[13] = nan
+2025-08-11 15:36:06,040 [INFO] Col[14] = nan
+2025-08-11 15:36:06,040 [INFO] Col[15] = np.float64(nan)
+2025-08-11 15:36:06,040 [INFO] Col[16] = nan
+2025-08-11 15:36:06,041 [INFO] Col[17] = np.float64(nan)
+2025-08-11 15:36:06,045 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:06,046 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:06,046 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:06,047 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:06,047 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:06,048 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:06,048 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:06,049 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-11 15:36:07,910 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-11 15:36:07,987 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-11 15:36:07,988 [INFO] Header row detected at index: 9
+2025-08-11 15:36:07,988 [INFO] Column headers: [nan, 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', np.float64(nan), np.float64(nan), nan, nan, np.float64(nan), nan, np.float64(nan)]
+2025-08-11 15:36:07,989 [INFO] Col[0] = nan
+2025-08-11 15:36:07,989 [INFO] Col[1] = 'Utility'
+2025-08-11 15:36:07,989 [INFO] Col[2] = 'Zone'
+2025-08-11 15:36:07,989 [INFO] Col[3] = 'Load Factor'
+2025-08-11 15:36:07,989 [INFO] Col[4] = 'Start Date'
+2025-08-11 15:36:07,990 [INFO] Col[5] = '6m'
+2025-08-11 15:36:07,990 [INFO] Col[6] = '12m'
+2025-08-11 15:36:07,990 [INFO] Col[7] = '18m'
+2025-08-11 15:36:07,990 [INFO] Col[8] = '24m'
+2025-08-11 15:36:07,990 [INFO] Col[9] = '36m'
+2025-08-11 15:36:07,991 [INFO] Col[10] = '48m'
+2025-08-11 15:36:07,991 [INFO] Col[11] = np.float64(nan)
+2025-08-11 15:36:07,991 [INFO] Col[12] = np.float64(nan)
+2025-08-11 15:36:07,991 [INFO] Col[13] = nan
+2025-08-11 15:36:07,992 [INFO] Col[14] = nan
+2025-08-11 15:36:07,992 [INFO] Col[15] = np.float64(nan)
+2025-08-11 15:36:07,992 [INFO] Col[16] = nan
+2025-08-11 15:36:07,992 [INFO] Col[17] = np.float64(nan)
+2025-08-11 15:36:07,994 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:07,994 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:07,994 [WARNING] Failed to normalize Utility 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:07,995 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:07,995 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:07,995 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:07,996 [WARNING] Failed to normalize Zone 'nan': 'float' object has no attribute 'strip'
+2025-08-11 15:36:07,998 [INFO] Successfully refreshed pricing data from latest files.

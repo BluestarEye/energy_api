@@ -1,0 +1,52 @@
+2025-08-06 10:39:06,969 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 10:39:06,986 [INFO] Forcing header row to index: 10
+2025-08-06 10:39:07,146 [INFO] Columns detected in the sheet: ['CenterpointHOUSTONLO45778', 'Centerpoint', 'HOUSTON', 'LO', datetime.datetime(2025, 5, 1, 0, 0), 0.09126, 0.07794, 0.08187, 0.07768, 0.07662, 0.07602, 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-06 10:39:07,147 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-06 10:39:09,336 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 10:39:09,338 [INFO] Forcing header row to index: 10
+2025-08-06 10:39:09,410 [INFO] Columns detected in the sheet: ['CenterpointHOUSTONLO45778', 'Centerpoint', 'HOUSTON', 'LO', datetime.datetime(2025, 5, 1, 0, 0), 0.09126, 0.07794, 0.08187, 0.07768, 0.07662, 0.07602, 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-06 10:39:09,412 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-06 10:40:46,501 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 10:40:46,502 [INFO] Forcing header row to index: 10
+2025-08-06 10:40:46,702 [INFO] Columns detected in the sheet: ['CenterpointHOUSTONLO45778', 'Centerpoint', 'HOUSTON', 'LO', datetime.datetime(2025, 5, 1, 0, 0), 0.09126, 0.07794, 0.08187, 0.07768, 0.07662, 0.07602, 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-06 10:40:46,709 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-06 10:41:13,293 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 10:41:13,295 [INFO] Forcing header row to index: 10
+2025-08-06 10:41:13,412 [INFO] Columns detected in the sheet: ['CenterpointHOUSTONLO45778', 'Centerpoint', 'HOUSTON', 'LO', datetime.datetime(2025, 5, 1, 0, 0), 0.09126, 0.07794, 0.08187, 0.07768, 0.07662, 0.07602, 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-06 10:41:13,413 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-06 10:41:16,393 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 10:41:16,394 [INFO] Forcing header row to index: 10
+2025-08-06 10:41:16,556 [INFO] Columns detected in the sheet: ['CenterpointHOUSTONLO45778', 'Centerpoint', 'HOUSTON', 'LO', datetime.datetime(2025, 5, 1, 0, 0), 0.09126, 0.07794, 0.08187, 0.07768, 0.07662, 0.07602, 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-06 10:41:16,557 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-06 12:06:22,538 [INFO] Loading Atlantic data from file: pricing_data/~$5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 12:06:22,543 [INFO] Forcing header row to index: 10
+2025-08-06 12:06:22,587 [ERROR] Failed to refresh pricing data: File is not a zip file
+2025-08-06 12:06:25,178 [INFO] Loading Atlantic data from file: pricing_data/~$5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 12:06:25,179 [INFO] Forcing header row to index: 10
+2025-08-06 12:06:25,189 [ERROR] Failed to refresh pricing data: File is not a zip file
+2025-08-06 12:12:09,566 [INFO] Loading Atlantic data from file: pricing_data/~$5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 12:12:09,569 [INFO] Forcing header row to index: 10
+2025-08-06 12:12:09,582 [ERROR] Failed to refresh pricing data: File is not a zip file
+2025-08-06 12:12:12,243 [INFO] Loading Atlantic data from file: pricing_data/~$5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 12:12:12,244 [INFO] Forcing header row to index: 10
+2025-08-06 12:12:12,248 [ERROR] Failed to refresh pricing data: File is not a zip file
+2025-08-06 12:17:50,731 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 12:17:50,740 [INFO] Forcing header row to index: 10
+2025-08-06 12:17:50,814 [INFO] Columns detected in the sheet: ['CenterpointHOUSTONLO45778', 'Centerpoint', 'HOUSTON', 'LO', datetime.datetime(2025, 5, 1, 0, 0), 0.09126, 0.07794, 0.08187, 0.07768, 0.07662, 0.07602, 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-06 12:17:50,814 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-06 12:17:53,156 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 12:17:53,157 [INFO] Forcing header row to index: 10
+2025-08-06 12:17:53,195 [INFO] Columns detected in the sheet: ['CenterpointHOUSTONLO45778', 'Centerpoint', 'HOUSTON', 'LO', datetime.datetime(2025, 5, 1, 0, 0), 0.09126, 0.07794, 0.08187, 0.07768, 0.07662, 0.07602, 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-06 12:17:53,195 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-06 12:26:27,430 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 12:26:27,508 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-06 12:26:29,581 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 12:26:29,647 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-06 12:36:21,648 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 12:36:21,858 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-06 12:36:21,859 [INFO] Header row detected at index: 9
+2025-08-06 12:36:21,862 [ERROR] Failed to refresh pricing data: Could not find or assign 'Start Month' column in Atlantic sheet.
+2025-08-06 12:36:23,576 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-06 12:36:23,699 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-06 12:36:23,701 [INFO] Header row detected at index: 9
+2025-08-06 12:36:23,702 [ERROR] Failed to refresh pricing data: Could not find or assign 'Start Month' column in Atlantic sheet.

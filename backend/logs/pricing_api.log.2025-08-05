@@ -1,0 +1,91 @@
+2025-08-05 14:15:20,376 [WARNING] Start Month null value found
+2025-08-05 14:15:20,408 [WARNING] Start Month null value found
+2025-08-05 14:15:20,409 [WARNING] Start Month null value found
+2025-08-05 14:15:20,410 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-05 14:15:23,283 [WARNING] Start Month null value found
+2025-08-05 14:15:23,284 [WARNING] Start Month null value found
+2025-08-05 14:15:23,285 [WARNING] Start Month null value found
+2025-08-05 14:15:23,286 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-05 14:19:16,651 [WARNING] Freepoint: No term columns found. Columns: ['State', 'Start Month', 'Utility', 'Congestion Zone', 'Load Factor', 'kWh/Year', '6 Month', '12 Month', '18 Month', '24 Month', '30 Month', '36 Month', '42 Month', '48 Month', '54 Month', '60 Month', 'Term', 'Price', 'End Month']
+2025-08-05 14:27:44,263 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-05 14:27:46,126 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-05 14:53:53,402 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-05 14:53:56,198 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-05 15:06:40,293 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:06:40,314 [INFO] Detected header row at index: 9
+2025-08-05 15:06:40,493 [INFO] Columns detected in the sheet: ['Unnamed: 0', 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-05 15:06:40,494 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-05 15:06:43,261 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:06:43,297 [INFO] Detected header row at index: 9
+2025-08-05 15:06:43,402 [INFO] Columns detected in the sheet: ['Unnamed: 0', 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-05 15:06:43,403 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-05 15:11:41,319 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:11:41,366 [INFO] Detected header row at index: 9
+2025-08-05 15:11:41,465 [INFO] Columns detected in the sheet: ['Unnamed: 0', 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-05 15:11:41,473 [WARNING] Start Month null value found
+2025-08-05 15:11:41,473 [WARNING] Start Month null value found
+2025-08-05 15:11:41,474 [WARNING] Start Month null value found
+2025-08-05 15:11:41,475 [WARNING] Start Month null value found
+2025-08-05 15:11:41,475 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-05 15:11:57,876 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:11:57,993 [INFO] Detected header row at index: 9
+2025-08-05 15:11:58,050 [INFO] Columns detected in the sheet: ['Unnamed: 0', 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-05 15:11:58,053 [WARNING] Start Month null value found
+2025-08-05 15:11:58,053 [WARNING] Start Month null value found
+2025-08-05 15:11:58,054 [WARNING] Start Month null value found
+2025-08-05 15:11:58,054 [WARNING] Start Month null value found
+2025-08-05 15:11:58,054 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-05 15:12:27,397 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:12:27,438 [INFO] Detected header row at index: 9
+2025-08-05 15:12:27,488 [INFO] Columns detected in the sheet: ['Unnamed: 0', 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-05 15:12:27,491 [WARNING] Start Month null value found
+2025-08-05 15:12:27,492 [WARNING] Start Month null value found
+2025-08-05 15:12:27,492 [WARNING] Start Month null value found
+2025-08-05 15:12:27,492 [WARNING] Start Month null value found
+2025-08-05 15:12:27,493 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-05 15:12:30,763 [INFO] Loading Atlantic data from file: pricing_data/~$5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:12:30,809 [ERROR] Failed to refresh pricing data: File is not a zip file
+2025-08-05 15:16:46,356 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:16:46,416 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-05 15:16:46,417 [INFO] Header row detected at index: 9
+2025-08-05 15:16:46,421 [INFO] Detected header row at index: 9
+2025-08-05 15:16:46,505 [INFO] Columns detected in the sheet: ['Unnamed: 0', 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-05 15:16:46,508 [WARNING] Start Month null value found
+2025-08-05 15:16:46,508 [WARNING] Start Month null value found
+2025-08-05 15:16:46,508 [WARNING] Start Month null value found
+2025-08-05 15:16:46,508 [WARNING] Start Month null value found
+2025-08-05 15:16:46,509 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-05 15:16:48,903 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:16:48,938 [INFO] Previewing first 10 rows to detect header in sheet: AE Texas Matrix
+2025-08-05 15:16:48,939 [INFO] Header row detected at index: 9
+2025-08-05 15:16:48,940 [INFO] Detected header row at index: 9
+2025-08-05 15:16:48,978 [INFO] Columns detected in the sheet: ['Unnamed: 0', 'Utility', 'Zone', 'Load Factor', 'Start Date', '6m', '12m', '18m', '24m', '36m', '48m', 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-05 15:16:48,979 [WARNING] Start Month null value found
+2025-08-05 15:16:48,980 [WARNING] Start Month null value found
+2025-08-05 15:16:48,980 [WARNING] Start Month null value found
+2025-08-05 15:16:48,980 [WARNING] Start Month null value found
+2025-08-05 15:16:48,981 [INFO] Successfully refreshed pricing data from latest files.
+2025-08-05 15:19:20,024 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:19:20,033 [INFO] Forcing header row to index: 10
+2025-08-05 15:19:20,117 [INFO] Columns detected in the sheet: ['CenterpointHOUSTONLO45778', 'Centerpoint', 'HOUSTON', 'LO', datetime.datetime(2025, 5, 1, 0, 0), 0.09126, 0.07794, 0.08187, 0.07768, 0.07662, 0.07602, 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-05 15:19:20,118 [ERROR] Failed to refresh pricing data: 'datetime.datetime' object has no attribute 'strip'
+2025-08-05 15:19:22,362 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:19:22,363 [INFO] Forcing header row to index: 10
+2025-08-05 15:19:22,418 [INFO] Columns detected in the sheet: ['CenterpointHOUSTONLO45778', 'Centerpoint', 'HOUSTON', 'LO', datetime.datetime(2025, 5, 1, 0, 0), 0.09126, 0.07794, 0.08187, 0.07768, 0.07662, 0.07602, 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-05 15:19:22,419 [ERROR] Failed to refresh pricing data: 'datetime.datetime' object has no attribute 'strip'
+2025-08-05 15:30:39,926 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:30:39,927 [INFO] Forcing header row to index: 10
+2025-08-05 15:30:40,083 [INFO] Columns detected in the sheet: ['CenterpointHOUSTONLO45778', 'Centerpoint', 'HOUSTON', 'LO', datetime.datetime(2025, 5, 1, 0, 0), 0.09126, 0.07794, 0.08187, 0.07768, 0.07662, 0.07602, 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-05 15:30:40,083 [ERROR] Failed to refresh pricing data: 'datetime.datetime' object has no attribute 'strip'
+2025-08-05 15:30:42,217 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:30:42,218 [INFO] Forcing header row to index: 10
+2025-08-05 15:30:42,268 [INFO] Columns detected in the sheet: ['CenterpointHOUSTONLO45778', 'Centerpoint', 'HOUSTON', 'LO', datetime.datetime(2025, 5, 1, 0, 0), 0.09126, 0.07794, 0.08187, 0.07768, 0.07662, 0.07602, 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-05 15:30:42,269 [ERROR] Failed to refresh pricing data: 'datetime.datetime' object has no attribute 'strip'
+2025-08-05 15:38:28,732 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:38:28,732 [INFO] Forcing header row to index: 10
+2025-08-05 15:38:28,783 [INFO] Columns detected in the sheet: ['CenterpointHOUSTONLO45778', 'Centerpoint', 'HOUSTON', 'LO', datetime.datetime(2025, 5, 1, 0, 0), 0.09126, 0.07794, 0.08187, 0.07768, 0.07662, 0.07602, 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-05 15:38:28,783 [ERROR] Failed to refresh pricing data: 'Start Month'
+2025-08-05 15:38:30,915 [INFO] Loading Atlantic data from file: pricing_data/5_21_2025 - AE TEXAS.xlsx, sheet: AE Texas Matrix
+2025-08-05 15:38:30,916 [INFO] Forcing header row to index: 10
+2025-08-05 15:38:30,975 [INFO] Columns detected in the sheet: ['CenterpointHOUSTONLO45778', 'Centerpoint', 'HOUSTON', 'LO', datetime.datetime(2025, 5, 1, 0, 0), 0.09126, 0.07794, 0.08187, 0.07768, 0.07662, 0.07602, 'Unnamed: 11', 'Unnamed: 12', 'Unnamed: 13', 'Unnamed: 14', 'Unnamed: 15', 'Unnamed: 16', 'Unnamed: 17']
+2025-08-05 15:38:30,977 [ERROR] Failed to refresh pricing data: 'Start Month'

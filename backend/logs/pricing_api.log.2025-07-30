@@ -1,0 +1,66 @@
+2025-07-30 15:28:17,792 [ERROR] Failed to refresh pricing data: Excel file format cannot be determined, you must specify an engine manually.
+2025-07-30 15:28:17,919 [ERROR] Failed to refresh pricing data: Excel file format cannot be determined, you must specify an engine manually.
+2025-07-30 15:36:01,517 [ERROR] Failed to refresh pricing data: Excel file format cannot be determined, you must specify an engine manually.
+2025-07-30 15:36:01,645 [ERROR] Failed to refresh pricing data: Excel file format cannot be determined, you must specify an engine manually.
+2025-07-30 15:43:22,647 [ERROR] Failed to refresh pricing data: File is not a zip file
+2025-07-30 15:44:33,085 [ERROR] Failed to refresh pricing data: File is not a zip file
+2025-07-30 15:47:27,060 [WARNING] Start Month null value found
+2025-07-30 15:47:27,062 [WARNING] Start Month null value found
+2025-07-30 15:47:27,063 [WARNING] Start Month null value found
+2025-07-30 15:47:27,202 [INFO] Successfully refreshed pricing data from latest files.
+2025-07-30 15:47:29,398 [WARNING] Start Month null value found
+2025-07-30 15:47:29,398 [WARNING] Start Month null value found
+2025-07-30 15:47:29,399 [WARNING] Start Month null value found
+2025-07-30 15:47:29,535 [INFO] Successfully refreshed pricing data from latest files.
+2025-07-30 16:02:16,918 [WARNING] Start Month null value found
+2025-07-30 16:02:16,919 [WARNING] Start Month null value found
+2025-07-30 16:02:16,920 [WARNING] Start Month null value found
+2025-07-30 16:02:17,054 [INFO] Successfully refreshed pricing data from latest files.
+2025-07-30 16:02:19,150 [WARNING] Start Month null value found
+2025-07-30 16:02:19,151 [WARNING] Start Month null value found
+2025-07-30 16:02:19,152 [WARNING] Start Month null value found
+2025-07-30 16:02:19,288 [INFO] Successfully refreshed pricing data from latest files.
+2025-07-30 16:04:08,610 [WARNING] Start Month null value found
+2025-07-30 16:04:08,610 [WARNING] Start Month null value found
+2025-07-30 16:04:08,611 [WARNING] Start Month null value found
+2025-07-30 16:04:08,746 [INFO] Successfully refreshed pricing data from latest files.
+2025-07-30 16:04:10,764 [WARNING] Start Month null value found
+2025-07-30 16:04:10,765 [WARNING] Start Month null value found
+2025-07-30 16:04:10,765 [WARNING] Start Month null value found
+2025-07-30 16:04:10,901 [INFO] Successfully refreshed pricing data from latest files.
+2025-07-30 16:25:28,368 [WARNING] Start Month null value found
+2025-07-30 16:25:28,369 [WARNING] Start Month null value found
+2025-07-30 16:25:28,369 [WARNING] Start Month null value found
+2025-07-30 16:25:28,505 [INFO] Successfully refreshed pricing data from latest files.
+2025-07-30 16:25:30,603 [WARNING] Start Month null value found
+2025-07-30 16:25:30,603 [WARNING] Start Month null value found
+2025-07-30 16:25:30,604 [WARNING] Start Month null value found
+2025-07-30 16:25:30,735 [INFO] Successfully refreshed pricing data from latest files.
+2025-07-30 16:32:08,834 [ERROR] Failed to refresh pricing data: File is not a zip file
+2025-07-30 16:32:08,918 [ERROR] Failed to refresh pricing data: File is not a zip file
+2025-07-30 16:34:59,525 [ERROR] Failed to refresh pricing data: File is not a zip file
+2025-07-30 16:34:59,627 [ERROR] Failed to refresh pricing data: File is not a zip file
+2025-07-30 16:36:40,538 [WARNING] Start Month null value found
+2025-07-30 16:36:40,539 [WARNING] Start Month null value found
+2025-07-30 16:36:40,539 [WARNING] Start Month null value found
+2025-07-30 16:36:40,671 [INFO] Successfully refreshed pricing data from latest files.
+2025-07-30 16:36:42,477 [WARNING] Start Month null value found
+2025-07-30 16:36:42,477 [WARNING] Start Month null value found
+2025-07-30 16:36:42,477 [WARNING] Start Month null value found
+2025-07-30 16:36:42,607 [INFO] Successfully refreshed pricing data from latest files.
+2025-07-30 16:38:29,229 [WARNING] Start Month null value found
+2025-07-30 16:38:29,230 [WARNING] Start Month null value found
+2025-07-30 16:38:29,230 [WARNING] Start Month null value found
+2025-07-30 16:38:29,362 [INFO] Successfully refreshed pricing data from latest files.
+2025-07-30 16:38:31,147 [WARNING] Start Month null value found
+2025-07-30 16:38:31,147 [WARNING] Start Month null value found
+2025-07-30 16:38:31,148 [WARNING] Start Month null value found
+2025-07-30 16:38:31,280 [INFO] Successfully refreshed pricing data from latest files.
+2025-07-30 16:40:09,879 [WARNING] Start Month null value found
+2025-07-30 16:40:09,879 [WARNING] Start Month null value found
+2025-07-30 16:40:09,880 [WARNING] Start Month null value found
+2025-07-30 16:40:10,030 [INFO] Successfully refreshed pricing data from latest files.
+2025-07-30 16:40:15,673 [WARNING] Start Month null value found
+2025-07-30 16:40:15,764 [WARNING] Start Month null value found
+2025-07-30 16:40:15,765 [WARNING] Start Month null value found
+2025-07-30 16:40:15,900 [INFO] Successfully refreshed pricing data from latest files.
