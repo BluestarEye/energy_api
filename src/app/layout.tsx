@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Energy Pricing Platform",
-  description: "Professional energy pricing analysis and management platform",
+  title: "Texas Energy Partner",
+  description: "Energy brokerage connecting Texas businesses with competitive power rates",
 };
 
 export default function RootLayout({

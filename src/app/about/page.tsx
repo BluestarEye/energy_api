@@ -4,8 +4,8 @@ export default function AboutPage() {
   return (
     <div className="space-y-8">
       <SectionHeader
-        title="About Us"
-        description="Empowering businesses with comprehensive energy pricing intelligence and market insights."
+        title="About Texas Energy Partner"
+        description="We help Texas businesses secure affordable, reliable energy through expert market guidance."
       />
 
       <div className="grid gap-8 md:grid-cols-2">
@@ -13,8 +13,8 @@ export default function AboutPage() {
           <div>
             <h2 className="text-2xl font-semibold mb-4">Our Mission</h2>
             <p className="text-gray-600">
-              We are dedicated to providing businesses with accurate, timely, and actionable energy pricing data and analytics. 
-              Our platform enables organizations to make informed decisions about their energy consumption and costs.
+              We are dedicated to providing businesses with accurate, timely, and actionable energy pricing data and analytics.
+              Our team negotiates on your behalf so you can make informed decisions about energy consumption and costs.
             </p>
           </div>
 

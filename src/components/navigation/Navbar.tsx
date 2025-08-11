@@ -8,9 +8,11 @@ export default function Navbar() {
 
   const navigation = [
     { name: 'Home', href: '/' },
+    { name: 'Services', href: '/services' },
     { name: 'Pricing', href: '/pricing' },
     { name: 'Analysis', href: '/analysis' },
     { name: 'About', href: '/about' },
+    { name: 'Contact', href: '/contact' },
   ];
 
   return (
@@ -20,7 +22,7 @@ export default function Navbar() {
           {/* Logo/Brand */}
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0 flex items-center">
-              <span className="text-xl font-bold text-gray-800">Energy Pricing</span>
+              <span className="text-xl font-bold text-gray-800">Texas Energy Partner</span>
             </Link>
           </div>
 
