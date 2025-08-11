@@ -19,15 +19,15 @@ export default function PricingResultsPage() {
   useEffect(() => {
     const fetchPricingData = async () => {
       try {
-        const params = {
-          start_month: searchParams.get('startMonth'),
-          utility: searchParams.get('utility'),
-          zip_code: searchParams.get('zipCode'),
-          load_factor: searchParams.get('loadFactor')?.replace('%', ''),
-          annual_volume: searchParams.get('annualVolume'),
+        const params: Record<string, string> = {
+          start_month: searchParams.get('startMonth') ?? '',
+          utility: searchParams.get('utility') ?? '',
+          zip_code: searchParams.get('zipCode') ?? '',
+          load_factor: searchParams.get('loadFactor')?.replace('%', '') ?? '',
+          annual_volume: searchParams.get('annualVolume') ?? '',
         };
 
-        const response = await fetch('/api/prices?' + new URLSearchParams(params as any));
+        const response = await fetch('/api/prices?' + new URLSearchParams(params));
         if (!response.ok) {
           throw new Error('Failed to fetch pricing data');
         }
